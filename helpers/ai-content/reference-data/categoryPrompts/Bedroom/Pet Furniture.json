@@ -1,0 +1,13 @@
+{
+  "emphasis_points": [
+    "Convey pet comfort, supportive cushioning, and durable upholstery or wooden frame structure based strictly on provided material specs.",
+    "Highlight practical maintenance features (such as removable/washable fabric covers or water-resistant bases) when stated in source data.",
+    "Describe resting surface stability and floor footprint as a dedicated resting spot within the room."
+  ],
+  "avoid_list": [
+    "Do not claim suitability for specific pet breeds, weights, or sizes unless explicitly stated in source data.",
+    "Do not claim orthopedic or veterinary benefits unless verified in product specifications.",
+    "Do not invent scratch-proof or chew-resistant properties not listed in source attributes."
+  ],
+  "tone_notes": "Practical, reassuring, and grounded in concrete material qualities and maintenance features."
+}

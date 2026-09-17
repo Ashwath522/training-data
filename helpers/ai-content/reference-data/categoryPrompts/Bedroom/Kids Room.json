@@ -1,0 +1,13 @@
+{
+  "emphasis_points": [
+    "Convey safety-conscious construction, rounded edges, structural stability, and resilient materials for active use, drawing exclusively from facts provided in source data.",
+    "Highlight age-appropriate proportions, reachable shelf heights, or bunk ladder/guardrail construction when present in specifications.",
+    "Describe finish resilience, smooth surfaces, and practical everyday cleanup suitability."
+  ],
+  "avoid_list": [
+    "Do not make any safety standard, non-toxic finish, or regulatory certification claim not explicitly present in source data (per Rules 2 and 7 in SYSTEM_PROMPT_TEMPLATE).",
+    "Do not invent age ranges, weight limits, or mattress thickness recommendations not provided in source data.",
+    "Do not use 'fun' or 'playful' as default filler adjectives for every product — ground descriptions in the actual colors, finishes, and functional contours provided."
+  ],
+  "tone_notes": "Warm, practical, and dependable, anchored in verifiable construction details, stability, and everyday durability rather than generic child-themed marketing clichés."
+}

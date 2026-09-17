@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+*.env
+!.env.example
+.DS_Store
+scratch/
+tmp/
+.agents/
+.gemini/
+cc/

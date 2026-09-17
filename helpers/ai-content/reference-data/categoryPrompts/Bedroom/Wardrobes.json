@@ -1,0 +1,14 @@
+{
+  "emphasis_points": [
+    "Convey internal storage capacity and compartment organization through concrete physical layout details (number of doors, shelves, hanging rails, internal drawers) rather than generic spaciousness claims.",
+    "Highlight door mechanism (hinged, sliding) and accessibility in relation to room circulation and wall clearance.",
+    "Emphasize exterior finish and structural joinery that maintain a cohesive presence along the bedroom wall."
+  ],
+  "avoid_list": [
+    "Do not state exact volumetric capacity or storage counts unless explicitly given in source data.",
+    "Do not use 'walk-in' language or imply room-scale storage unless explicitly specified as such.",
+    "Do not invent internal organizer features (such as tie racks or jewelry trays) absent from specifications.",
+    "Do not use 'bedroom wall' or close variants — describe concrete product attributes instead."
+  ],
+  "tone_notes": "Practical and structured, grounded in verifiable configuration details, spatial ergonomics, and daily storage utility rather than a fixed adjective set."
+}

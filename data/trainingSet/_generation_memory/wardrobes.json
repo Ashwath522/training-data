@@ -1,0 +1,512 @@
+{
+  "category": "Wardrobes",
+  "items": [
+    {
+      "id": "ul-fnsgcb43cw35100",
+      "name": "Zoey Engineered Wood 3 Door Wardrobe With Mirror in Classic Walnut Finish",
+      "shortName": "Zoey",
+      "summary": "An integrated front panel and a classic walnut frame give this multi-door wardrobe a bright, functional presence in the master bedroom quarters. The internal layout combines dedicated hanging space with wide shelf compartments for organized clothing and accessory storage. Constructed with solid particle board panels, the cabinet maintains dependable structural framing across daily domestic use in the home. Enclosed cabinet doors keep personal wardrobe items protected and neatly stored out of sight for enduring bedroom calm. Zoey enriches the bedroom suite with authentic particle board construction, classic walnut tones, and delightful home warmth.",
+      "opener": "An integrated front panel and a classic walnut frame give this multi-door wardrobe a bright, functional presence in the master bedroom quarters",
+      "closer": "Zoey enriches the bedroom suite with authentic particle board construction, classic walnut tones, and delightful home warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.231Z"
+    },
+    {
+      "id": "ul-fnsgcb33oa36163",
+      "name": "Avalon Engineered Wood 2 Sliding Door Wardrobe in Chocolate Oak Finish",
+      "shortName": "Avalon",
+      "summary": "A tall facade in rich chocolate oak tones brings functional dressing convenience and disciplined storage to your master bedroom quarters. Internal shelving tiers keep folded garments, daily apparel, and domestic bedroom linens neatly partitioned for rapid morning retrieval. Built from authentic particle board, the sturdy framework delivers steady structural support and consistent panel alignment over time. Preserving open floor walkways around the wardrobe promotes natural circulation and an easy domestic rhythm throughout the bedroom suite. With balanced proportions and a chocolate oak finish, Avalon brings lasting functional order to daily domestic living.",
+      "opener": "A tall facade in rich chocolate oak tones brings functional dressing convenience and disciplined storage to your master bedroom quarters",
+      "closer": "With balanced proportions and a chocolate oak finish, Avalon brings lasting functional order to daily domestic living.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.232Z"
+    },
+    {
+      "id": "ul-fnsgcb33br36235",
+      "name": "Loretta Sliding Door Wardrobe With Mirror in Sonoma Oak Finish",
+      "shortName": "Loretta",
+      "summary": "A space-efficient sliding door facade in an authentic sonoma oak stain defines this functional multi-door wardrobe tailored for master suites. The vertical cabinet layout maximizes apparel capacity within a compact floor footprint along the bedroom wall perimeter. Primary particle board construction ensures solid panel alignment, joint rigidity, and lasting balance across daily domestic routines. Combining structured garment utility with concealed storage helps preserve an uncluttered, tranquil master bedroom arrangement. Loretta coordinates with surrounding furniture through authentic particle board framing, practical utility, and lasting dependable quality.",
+      "opener": "A space-efficient sliding door facade in an authentic sonoma oak stain defines this functional multi-door wardrobe tailored for master suites",
+      "closer": "Loretta coordinates with surrounding furniture through authentic particle board framing, practical utility, and lasting dependable quality.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.233Z"
+    },
+    {
+      "id": "ul-fnsgcb33dw35585",
+      "name": "Bennis Engineered Wood 3 Door Wardrobe Without Mirror in Dark Walnut Finish",
+      "shortName": "Bennis",
+      "summary": "Clean architectural lines and smooth dark walnut exterior panels establish an uncluttered presence in the primary sleeping quarters. The horizontal sliding mechanism provides full storage access without requiring outward door clearance into walkways or bedside paths. Constructed with quality mdf, the piece delivers consistent finish character, robust framing, and reliable support over years. Sliding access preserves walkway clearance effectively, making the wardrobe practical and versatile for varied bedroom room layouts. Finished in dark walnut, Bennis completes your room arrangement with structured utility and graceful aesthetic balance.",
+      "opener": "Clean architectural lines and smooth dark walnut exterior panels establish an uncluttered presence in the primary sleeping quarters",
+      "closer": "Finished in dark walnut, Bennis completes your room arrangement with structured utility and graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.234Z"
+    },
+    {
+      "id": "ul-fnsgcb333d36337",
+      "name": "Bocado 3 Door Wardrobe in Sheesham Finish",
+      "shortName": "Bocado",
+      "summary": "Space-conscious exterior panels in an authentic sheesham wood stain offer organized apparel storage across master bedroom quarters. Dedicated interior bays keep hanging apparel, coats, and folded domestic items organized within an orderly, accessible layout. Engineered mdf panels ensure structured support for hanging rails, side panels, and internal compartment shelves. The sliding door configuration ensures convenient daily access while keeping the surrounding master bedroom open and serene. Bocado anchors the room with natural mdf surfaces, understated lines, and solid foundation strength.",
+      "opener": "Space-conscious exterior panels in an authentic sheesham wood stain offer organized apparel storage across master bedroom quarters",
+      "closer": "Bocado anchors the room with natural mdf surfaces, understated lines, and solid foundation strength.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.236Z"
+    },
+    {
+      "id": "ul-fnsgcb11mh10012",
+      "name": "Zephyr Solid Wood 2 Door Wardrobe in Mahogany Finish",
+      "shortName": "Zephyr",
+      "summary": "Modern exterior doors in an authentic mahogany hue make this full-height wardrobe a space-saving bedroom organization asset. Internal storage bays provide dedicated space for garments without encroaching on surrounding floor space when fully accessed. Sturdy sheesham wood components form the outer housing, base foundation, and compartmentalized interior divider walls reliably. Enclosed sliding compartments keep clothing neatly organized and hidden behind clean, understated exterior panel surfaces. Designed for domestic routines, Zephyr integrates mahogany aesthetics with dependable contemporary elegance.",
+      "opener": "Modern exterior doors in an authentic mahogany hue make this full-height wardrobe a space-saving bedroom organization asset",
+      "closer": "Designed for domestic routines, Zephyr integrates mahogany aesthetics with dependable contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> MATERIAL_DETAIL -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.237Z"
+    },
+    {
+      "id": "ul-fnsgcb11tk16350",
+      "name": "Fidora Solid Wood 2 Door Wardrobe in Teak Finish",
+      "shortName": "Fidora",
+      "summary": "Smooth-operating sliding panels in a teak stain maximize walking clearance throughout the surrounding master bedroom suite. The horizontal sliding configuration allows effortless access even when placed close to bedside nightstands and walking paths. The durable sheesham wood chassis delivers reliable load support and lasting frame balance across all interior garment sections. Concealing wardrobe essentials behind sliding panels supports a tranquil, orderly bedroom layout throughout everyday family living. Fidora supports daily bedroom activities with genuine sheesham wood materials, tidy organization, and pure geometric clarity.",
+      "opener": "Smooth-operating sliding panels in a teak stain maximize walking clearance throughout the surrounding master bedroom suite",
+      "closer": "Fidora supports daily bedroom activities with genuine sheesham wood materials, tidy organization, and pure geometric clarity.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.239Z"
+    },
+    {
+      "id": "ul-fnsgcb33cw36048",
+      "name": "Jaden Engineered Wood 2 Door Sliding Wardrobe Without Mirror in Classic Walnut Finish",
+      "shortName": "Jaden",
+      "summary": "Vertical storage capacity and a warm classic walnut finish give this multi-door wardrobe a classic, disciplined bedroom presence. Internal compartments provide generous hanging clearance alongside deep shelving for folded bedroom textiles and everyday garments. Built from solid particle board, the cabinet frame maintains solid frame balance, level shelving, and dependable balance over years. Enclosed cabinet doors keep wardrobe essentials organized, protected, and neatly stored carefully out of view for a calm aesthetic. The balanced profile of Jaden pairs a classic walnut exterior with functional domestic welcoming home presence.",
+      "opener": "Vertical storage capacity and a warm classic walnut finish give this multi-door wardrobe a classic, disciplined bedroom presence",
+      "closer": "The balanced profile of Jaden pairs a classic walnut exterior with functional domestic welcoming home presence.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.241Z"
+    },
+    {
+      "id": "ul-fnsgcb12rc36391",
+      "name": "Takai Solid Wood 2 Door Wardrobe In Red Cedar Finish",
+      "shortName": "Takai",
+      "summary": "Generous vertical proportions and a rich red cedar stain define this functional wardrobe built for ongoing domestic order. Partitioned inner sections house wardrobe attire, seasonal quilts, and daily domestic accessories in systematic, accessible order. High-density mango wood construction forms the exterior panels and internal partitions, ensuring dependable structural framing. The tall cabinet profile makes effective use of vertical space to keep bedroom floor areas uncluttered and easy to navigate. Takai delivers reliable household service through authentic mango wood panels, warm red cedar tones, and uncluttered balance.",
+      "opener": "Generous vertical proportions and a rich red cedar stain define this functional wardrobe built for ongoing domestic order",
+      "closer": "Takai delivers reliable household service through authentic mango wood panels, warm red cedar tones, and uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.243Z"
+    },
+    {
+      "id": "ul-fncb3d33be36274",
+      "name": "Sydney 3 Door Wardrobe in Beige High Gloss Finish",
+      "shortName": "Sydney",
+      "summary": "Structured storage sections in an authentic beige glossy finish provide dependable clothing organization in bedroom quarters. Internal shelving and hanging space accommodate everyday clothing, coats, and domestic linens while preserving a clean room perimeter. Crafted from selected mdf, the structure delivers steady frame alignment, authentic finish texture, and solid panel support. Enclosing clothing within the cabinet helps maintain a tidy, calming bedroom environment for restful evening relaxation. Built for everyday domestic life, Sydney combines solid mdf elements with beige glossy styling and solid foundation strength.",
+      "opener": "Structured storage sections in an authentic beige glossy finish provide dependable clothing organization in bedroom quarters",
+      "closer": "Built for everyday domestic life, Sydney combines solid mdf elements with beige glossy styling and solid foundation strength.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.247Z"
+    },
+    {
+      "id": "ul-fnsgcb43dw35100",
+      "name": "Wren Engineered Wood 3 Door Wardrobe With Mirror in Dark Wenge Finish",
+      "shortName": "Wren",
+      "summary": "A timeless dark wenge exterior and structured cabinet framing define this bedroom multi-door wardrobe for everyday domestic living. Multiple storage zones offer dedicated space for hanging attire, neatly folded garments, bedding sets, and personal accessories. Solid particle board components provide lasting structural reliability, joint rigidity, and stability throughout family routines. Full-height storage sections keep personal clothing neatly organized, compartmentalized, and readily reachable each day. Wren introduces disciplined storage utility and dark wenge character to elevate your bedroom with understated sophistication.",
+      "opener": "A timeless dark wenge exterior and structured cabinet framing define this bedroom multi-door wardrobe for everyday domestic living",
+      "closer": "Wren introduces disciplined storage utility and dark wenge character to elevate your bedroom with understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.250Z"
+    },
+    {
+      "id": "ul-fnsgcb12aw37779",
+      "name": "Toledo Solid Wood 2 Door Wardrobe In Amber Walnut Finish",
+      "shortName": "Toledo",
+      "summary": "Structured apparel organization and clean amber walnut panels characterize this functional multi-door wardrobe for modern bedroom suites. The internal compartment layout provides accessible capacity for seasonal apparel, daily garments, and household bedding linens. High-density mango wood boards ensure steady cabinet alignment, durable side walls, and reliable internal shelf support. Concealing personal apparel behind solid doors promotes an orderly, relaxing, and serene atmosphere across the bedroom. With clean geometric contours and amber walnut surfaces, Toledo enhances your quarters with graceful aesthetic balance.",
+      "opener": "Structured apparel organization and clean amber walnut panels characterize this functional multi-door wardrobe for modern bedroom suites",
+      "closer": "With clean geometric contours and amber walnut surfaces, Toledo enhances your quarters with graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.252Z"
+    },
+    {
+      "id": "ul-fnsgcb41dw30068",
+      "name": "Bocado 2 Door Wardrobe in Columbian Walnut Finish",
+      "shortName": "Bocado",
+      "summary": "A classic multi-compartment silhouette in a columbian walnut stain offers ample garment capacity for the modern family home. Deep interior shelving pairs with solid hanging rails to provide balanced, comprehensive wardrobe capacity for master suites. The resilient particle board chassis supports heavy winter coats, hanging suits, and organized storage bins with steadfast ease. Structured organization inside the wardrobe keeps bedroom surfaces tidy, uncluttered, and restful throughout daily routines. Bocado offers dependable domestic utility through authentic particle board joinery and understated sophistication.",
+      "opener": "A classic multi-compartment silhouette in a columbian walnut stain offers ample garment capacity for the modern family home",
+      "closer": "Bocado offers dependable domestic utility through authentic particle board joinery and understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.254Z"
+    },
+    {
+      "id": "ul-fnsgcb12mh16309",
+      "name": "Alexandra Solid Wood 2 Door Wardrobe in American Walnut Finish",
+      "shortName": "Alexandra",
+      "summary": "Spacious cabinet proportions and an authentic american walnut finish establish disciplined storage in primary master suites. Generous internal depth easily accommodates wide garment hangers, storage bins, and neatly folded domestic knitwear items. Built with mango wood, the unit delivers unwavering framework integrity and uniform surface alignment across ongoing use. Keeping clothing systematically enclosed maintains a peaceful, uncluttered master suite for restful evening relaxation. Showcasing an authentic american walnut exterior, Alexandra provides lasting lasting dependable quality for master bedrooms.",
+      "opener": "Spacious cabinet proportions and an authentic american walnut finish establish disciplined storage in primary master suites",
+      "closer": "Showcasing an authentic american walnut exterior, Alexandra provides lasting lasting dependable quality for master bedrooms.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.257Z"
+    },
+    {
+      "id": "ul-fnsgcb12dc37779",
+      "name": "Toledo Solid Wood 2 Door Wardrobe In Dark Chestnut Finish",
+      "shortName": "Toledo",
+      "summary": "A functional front facade and warm dark chestnut tones give this wardrobe practical daily utility across master bedchambers. Dedicated interior compartments separate seasonal clothing from daily dressing necessities, keeping wardrobe contents arranged. Primary mango wood framing ensures solid corner joinery, level shelf positions, and balance across daily domestic routines. Maintaining open floor space around the wardrobe promotes natural room circulation and an neatly easy domestic rhythm. Toledo brings together solid mango wood construction and a dark chestnut stain to create inviting domestic comfort.",
+      "opener": "A functional front facade and warm dark chestnut tones give this wardrobe practical daily utility across master bedchambers",
+      "closer": "Toledo brings together solid mango wood construction and a dark chestnut stain to create inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> FUNCTION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.260Z"
+    },
+    {
+      "id": "ul-fnsgcb43cw35097",
+      "name": "Zoey Engineered Wood 2 Door Wardrobe in Classic Walnut Finish",
+      "shortName": "Zoey",
+      "summary": "Sleek sliding doors and a rich classic walnut exterior bring contemporary storage convenience to your master bedroom suite. The internal compartment configuration provides dedicated sections for hanging coats, formal wear, and folded garments neatly. Durable particle board construction ensures lasting frame rigidity, dependable shelf support, and consistent finish character. Concealed storage keeps personal wardrobe items systematically organized, creating an uncluttered and tranquil bedroom. Clean lines and classic walnut surface tones ensure Zoey delivers enduring understated sophistication to your home.",
+      "opener": "Sleek sliding doors and a rich classic walnut exterior bring contemporary storage convenience to your master bedroom suite",
+      "closer": "Clean lines and classic walnut surface tones ensure Zoey delivers enduring understated sophistication to your home.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.263Z"
+    },
+    {
+      "id": "ul-fnsgcb33dw35584",
+      "name": "Bennis Engineered Wood 2 Door Wardrobe Without Mirror in Dark Walnut Finish",
+      "shortName": "Bennis",
+      "summary": "Tall vertical proportions and an authentic dark walnut stain make this multi-door wardrobe an impressive bedroom organizer centerpiece. Wide internal compartments offer generous space for apparel storage without swinging outward into bedroom walking paths. Solid mdf components deliver steadfast structural integrity, joint stability, and durable load resistance. Enclosing apparel within the wardrobe maintains a clean visual horizon across the master bedroom suite. Bennis fits naturally into master suites, combining mdf framing with lasting dependable quality.",
+      "opener": "Tall vertical proportions and an authentic dark walnut stain make this multi-door wardrobe an impressive bedroom organizer centerpiece",
+      "closer": "Bennis fits naturally into master suites, combining mdf framing with lasting dependable quality.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.265Z"
+    },
+    {
+      "id": "ul-fnsgcb43cw35099",
+      "name": "Zoey Engineered Wood 3 Door Wardrobe in Classic Walnut Finish",
+      "shortName": "Zoey",
+      "summary": "Clean geometric styling and a refined classic walnut finish give this cabinet an understated modern room aesthetic. The partitioned layout organizes daily dressing essentials, seasonal bedding, and personal accessories within easy reach. Constructed from particle board, the cabinet framework preserves enduring squareness and stable perimeter bracing. Enclosing apparel within full-height cabinet doors establishes an orderly, restful master bedroom atmosphere free of clutter. With its understated classic walnut silhouette, Zoey establishes an atmosphere of refined contemporary distinction.",
+      "opener": "Clean geometric styling and a refined classic walnut finish give this cabinet an understated modern room aesthetic",
+      "closer": "With its understated classic walnut silhouette, Zoey establishes an atmosphere of refined contemporary distinction.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.268Z"
+    },
+    {
+      "id": "ul-fnsgcb33ca30003",
+      "name": "Hilton 3 Door 2 Drawer Wardrobe With Mirror and Lock in Chestnut Acacia Finish",
+      "shortName": "Hilton",
+      "summary": "Refined door surfaces and a warm chestnut acacia finish bring visual depth and order to modern master bedroom suites. Internal shelves and hanging rods accommodate diverse garment types, keeping master bedroom attire neatly categorized. Engineered particle board panels provide durable perimeter strength, level shelf placement, and lasting frame stability. Preserving floor clearance around the bed and nightstands promotes an uncluttered, serene bedroom atmosphere. Hilton enriches master bedroom arrangements through natural particle board texture and refined contemporary distinction.",
+      "opener": "Refined door surfaces and a warm chestnut acacia finish bring visual depth and order to modern master bedroom suites",
+      "closer": "Hilton enriches master bedroom arrangements through natural particle board texture and refined contemporary distinction.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.271Z"
+    },
+    {
+      "id": "ul-fnsgcb333w16519",
+      "name": "Bennis Engineered Wood 3 Door Wardrobe Without Mirror in White Finish",
+      "shortName": "Bennis",
+      "summary": "Lateral track glider panels in a white stain ensure easy passage across compact bedroom room quarters. Generous interior hanging clearance pairs with deep shelf bays for versatile and organized daily garment storage. Built with solid mdf, the cabinet structure delivers dependable load support and stable joinery across daily use. Closing the doors conceals wardrobe clutter, fostering a tranquil and orderly atmosphere for evening relaxation. Tailored for everyday family routines, Bennis unites a white finish with balanced room order.",
+      "opener": "Lateral track glider panels in a white stain ensure easy passage across compact bedroom room quarters",
+      "closer": "Tailored for everyday family routines, Bennis unites a white finish with balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> PRACTICAL_USE -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.275Z"
+    },
+    {
+      "id": "ul-fnsgcb33ca30012",
+      "name": "Miller 3 Door Wardrobe With Mirror and Lock in Two Tone Finish",
+      "shortName": "Miller",
+      "summary": "A handsome two-tone facade and structured multi-bay layout give this multi-door wardrobe dependable domestic storage utility. Multiple storage zones keep garments, domestic linens, and accessory organizers separated and readily accessible every day. High-density particle board framing supports heavy winter coats and stacked apparel without sagging or panel flex. Combining generous capacity with enclosed storage creates an efficient, organized dressing zone in the master bedroom. Miller provides steadfast household service, combining particle board panels with balanced room order.",
+      "opener": "A handsome two-tone facade and structured multi-bay layout give this multi-door wardrobe dependable domestic storage utility",
+      "closer": "Miller provides steadfast household service, combining particle board panels with balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.278Z"
+    },
+    {
+      "id": "ul-fvsgcb33br67721",
+      "name": "Winslet 3 Door Wardrobe",
+      "shortName": "Winslet",
+      "summary": "Integrated front styling and a rich exotic teak finish stain make this wardrobe a practical addition to your family home. The interior combines full-height hanging capacity with partitioned shelving to organize complete family clothing collections. Solid particle board panels deliver lasting structural durability, reliable joint support, and authentic timber texture. The sliding facade preserves walkway space completely, allowing flexible furniture positioning throughout the room. An authentic exotic teak finish finish allows Winslet to complement existing bedroom furniture with inviting domestic comfort.",
+      "opener": "Integrated front styling and a rich exotic teak finish stain make this wardrobe a practical addition to your family home",
+      "closer": "An authentic exotic teak finish finish allows Winslet to complement existing bedroom furniture with inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.282Z"
+    },
+    {
+      "id": "ul-fvsgcb11bw51519",
+      "name": "BLUEWUD Maltein 3 Door Wardrobe/Clothes Storage Rack Organizer Almirah Cupboard Cabinet with Lock, Shelves and Cloth Hanger for Bedroom Home Furniture (Brown Maple &amp; White, 106.4 X 40 X 180 CM)",
+      "shortName": "BLUEWUD",
+      "summary": "Streamlined sliding panels in a brown maple & white tone bring space-saving utility and modern bedroom styling to quarters. Spacious interior shelves accommodate folded sweaters, domestic linens, and storage boxes alongside hanging garments. Crafted from selected particle board, the frame maintains rock-solid corner joinery, level shelf support, and lasting character. Concealing garments inside solid cabinet doors preserves a peaceful, organized bedroom quarters for nightly rest. BLUEWUD completes the master suite layout through sturdy particle board framing and understated sophistication.",
+      "opener": "Streamlined sliding panels in a brown maple & white tone bring space-saving utility and modern bedroom styling to quarters",
+      "closer": "BLUEWUD completes the master suite layout through sturdy particle board framing and understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.286Z"
+    },
+    {
+      "id": "ul-fvsgcb33wh72172",
+      "name": "Galaxy 3 Door Wardrobe In Exotic Teak Finish",
+      "shortName": "Galaxy",
+      "summary": "Generous internal capacity and a frosty white & walnut exterior establish disciplined apparel partitioning for the sleeping quarters. The internal layout separates daily work attire from casual wear, keeping clothing organized and easy to locate rapidly. Primary particle board construction ensures reliable framing, authentic surface texture, and long-term domestic stability. Eliminating outward door swing keeps bedroom walkways completely clear for effortless room navigation. Structured proportions and a frosty white & walnut exterior make Galaxy a trusted addition for minimal harmony.",
+      "opener": "Generous internal capacity and a frosty white & walnut exterior establish disciplined apparel partitioning for the sleeping quarters",
+      "closer": "Structured proportions and a frosty white & walnut exterior make Galaxy a trusted addition for minimal harmony.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.289Z"
+    },
+    {
+      "id": "ul-fncomb33br38289",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe with mirror Double cream - Brown Tinted Ligth Oak Finish",
+      "shortName": "Velora",
+      "summary": "A distinguished exterior panel and warm ligth oak finish provide storage utility and balanced bedroom room presence. Deep interior compartments accommodate bulky winter apparel and daily dressing essentials in an organized fashion. Built with authentic particle board, the outer housing and divider panels deliver steady load-bearing reliability. Enclosing daily wardrobe items behind solid doors maintains an orderly and relaxing master suite aesthetic. Velora enriches modern bedroom quarters with solid particle board support and inviting domestic warmth.",
+      "opener": "A distinguished exterior panel and warm ligth oak finish provide storage utility and balanced bedroom room presence",
+      "closer": "Velora enriches modern bedroom quarters with solid particle board support and inviting domestic warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.294Z"
+    },
+    {
+      "id": "ul-fncomb33be38279",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe With Mirror in Blade Grey and Choco Oak Finish",
+      "shortName": "Velora",
+      "summary": "Space-efficient sliding doors in a rich choco oak finish define this functional wardrobe for modern master suites. Interior shelf levels store neatly stacked apparel, bed linen sets, and accessory baskets conveniently and safely. Engineered with solid particle board, the cabinet maintains rock-solid joint rigidity and flat shelf alignment over time. Structured vertical storage maximizes bedroom capacity while preserving open floor space for easy room movement. With genuine particle board materials and a choco oak tone, Velora fosters lasting understated sophistication.",
+      "opener": "Space-efficient sliding doors in a rich choco oak finish define this functional wardrobe for modern master suites",
+      "closer": "With genuine particle board materials and a choco oak tone, Velora fosters lasting understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.298Z"
+    },
+    {
+      "id": "ul-fncomb33og38283",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe with Mirror in Double Cream Olive Green Classic Walnut",
+      "shortName": "Velora",
+      "summary": "A classic silhouette and authentic classic walnut tones give this wardrobe a dependable, disciplined bedroom presence. Spacious internal bays house long trench coats, evening suits, and folded blankets in orderly storage zones. Constructed from particle board, the cabinet frame provides steady platform support and durable joint stability across use. Concealing wardrobe essentials while offering organized shelving creates a calm, efficient master bedroom retreat. Velora provides practical domestic utility while maintaining an inviting sense of dependable structural integrity.",
+      "opener": "A classic silhouette and authentic classic walnut tones give this wardrobe a dependable, disciplined bedroom presence",
+      "closer": "Velora provides practical domestic utility while maintaining an inviting sense of dependable structural integrity.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.302Z"
+    },
+    {
+      "id": "ul-fncomb33be38281",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe with mirror in Blade grey Classic Walnut Finish",
+      "shortName": "Velora",
+      "summary": "Tall cabinet architecture and a refined classic walnut stain establish this multi-door wardrobe as an orderly wardrobe asset. Tiered internal shelves keep folded apparel and bedroom linens neatly organized, accessible, and protected. High-quality particle board panels ensure lasting joint stability, durable side walls, and level shelf placement. Enclosing garments carefully inside solid cabinet carefully doors preserves a peaceful, reliably organized bedroom environment for sleep. The refined classic walnut surfaces of Velora bring natural warmth and graceful aesthetic balance to your living space.",
+      "opener": "Tall cabinet architecture and a refined classic walnut stain establish this multi-door wardrobe as an orderly wardrobe asset",
+      "closer": "The refined classic walnut surfaces of Velora bring natural warmth and graceful aesthetic balance to your living space.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> STORAGE_FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.307Z"
+    },
+    {
+      "id": "ul-fncomb33bl38287",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe with mirror Double cream - Hauge Blue Light Oak Finish",
+      "shortName": "Velora",
+      "summary": "Distinctive panel proportions and a smooth ligth oak finish bring functional storage depth to the master quarters. The partitioned interior accommodates long coats, suits, and folded domestic textiles in dedicated storage bays. Solid particle board framing provides structured support across the entire cabinet, preventing panel warping or wobble. Enclosing garments within the sliding chassis maintains a clutter-free, tranquil master quarters aesthetic. Velora unifies master bedroom aesthetics through solid particle board craft and uncluttered balance.",
+      "opener": "Distinctive panel proportions and a smooth ligth oak finish bring functional storage depth to the master quarters",
+      "closer": "Velora unifies master bedroom aesthetics through solid particle board craft and uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.311Z"
+    },
+    {
+      "id": "ul-fncomb33og38285",
+      "name": "Velora Premium 2 Door 8ft Sliding Wardrobe with mirror Olive Green Classic Walnut Finish",
+      "shortName": "Velora",
+      "summary": "Clean architectural styling and an authentic classic walnut finish carefully establish disciplined storage in master bedrooms. Internal hanging rails pair with wide storage shelves to provide comprehensive apparel capacity for daily dressing routines. Crafted with quality particle board, the frame delivers robust chassis balance and precise partition squaring throughout use. Organized vertical apparel storage ensures bedroom perimeters remain neat, accessible, and completely open. Everyday convenience and classic walnut styling define the lasting appeal of Velora for modern refinement.",
+      "opener": "Clean architectural styling and an authentic classic walnut finish carefully establish disciplined storage in master bedrooms",
+      "closer": "Everyday convenience and classic walnut styling define the lasting appeal of Velora for modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "doorCount"
+      ],
+      "timestamp": "2026-09-15T11:37:15.315Z"
+    }
+  ],
+  "angleCounts": {
+    "STRUCTURE_A": 30
+  },
+  "structureCounts": {
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 5,
+    "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 3,
+    "SPATIAL_OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> MATERIAL_DETAIL -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 3,
+    "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> FUNCTION -> CONCLUSION": 2,
+    "USE_CASE -> FUNCTION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> PRACTICAL_USE -> FUNCTION -> CONCLUSION": 1,
+    "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "SPATIAL_OBSERVATION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> STORAGE_FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> STORAGE_FUNCTION -> CONCLUSION": 1
+  },
+  "updated_at": "2026-09-15T11:37:15.315Z"
+}

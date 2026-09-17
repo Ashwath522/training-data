@@ -1,0 +1,468 @@
+{
+  "generated_at": "2026-09-15T11:37:15.316Z",
+  "quality_gate_passed": true,
+  "summary_stats": {
+    "total_categories": 6,
+    "total_products_processed": 185,
+    "total_passed": 185,
+    "total_failed": 0,
+    "hallucination_rate": "0%",
+    "schema_compliance_rate": "100.0%"
+  },
+  "archive_diagnostics": [
+    {
+      "category": "Bedroom Storage",
+      "records": 35,
+      "unique_openers": 5,
+      "opener_reuse_rate": "85.7%",
+      "unique_closers": 34,
+      "closer_reuse_rate": "2.9%",
+      "duplicate_full_summaries": 0,
+      "avg_jaccard_similarity": 0.297,
+      "avg_cosine_similarity": 0.561,
+      "high_similarity_pairs": 110,
+      "dominant_template": "Pure simplicity shapes thoughtful living.",
+      "top_repeated_4grams": [
+        {
+          "phrase": "this chest of drawers",
+          "count": 12
+        },
+        {
+          "phrase": "to your room with",
+          "count": 11
+        },
+        {
+          "phrase": "your room with the",
+          "count": 11
+        },
+        {
+          "phrase": "pure simplicity shapes thoughtful",
+          "count": 9
+        },
+        {
+          "phrase": "simplicity shapes thoughtful living",
+          "count": 9
+        },
+        {
+          "phrase": "shapes thoughtful living shaped",
+          "count": 9
+        },
+        {
+          "phrase": "thoughtful living shaped by",
+          "count": 9
+        },
+        {
+          "phrase": "living shaped by clean",
+          "count": 9
+        },
+        {
+          "phrase": "shaped by clean unadorned",
+          "count": 9
+        },
+        {
+          "phrase": "by clean unadorned surfaces",
+          "count": 9
+        }
+      ],
+      "unsupported_claim_hits": {
+        "smooth non-porous surfaces": 7
+      },
+      "repetition_types": {
+        "A. Exact repetition": "None",
+        "B. Near-exact repetition": "110 pairs with Jaccard >= 0.55 / Cosine >= 0.75",
+        "C. Structural repetition": "Opener reuse rate: 85.7% (5 unique across 35 items)",
+        "D. Semantic repetition": "Dominant opening template: \"Pure simplicity shapes thoughtful living....\" reused in 9 products",
+        "E. Vocabulary repetition": "Top repeated 4-grams: \"this chest of drawers\" (12x), \"to your room with\" (11x), \"your room with the\" (11x)",
+        "F. Product-fact repetition": "Material slot substitution on identical template skeleton",
+        "G. Unsupported factual insertion": "1 distinct unsupported claim types detected (smooth non-porous surfaces: 7)"
+      },
+      "likely_root_causes": [
+        "Static fallback generator with 3-4 fixed slot-filling paragraph templates",
+        "Deterministic modulo strategy selection causing cyclical template repetition",
+        "Insufficient dynamic feature extraction from source product attributes",
+        "Rigid narrative skeleton (Mood -> Intro -> Story -> Close) forcing identical rhetorical cadence",
+        "Uncontrolled marketing claim insertion (e.g. non-porous surfaces, traditional joinery) without source verification"
+      ]
+    },
+    {
+      "category": "Beds",
+      "records": 50,
+      "unique_openers": 5,
+      "opener_reuse_rate": "90.0%",
+      "unique_closers": 48,
+      "closer_reuse_rate": "4.0%",
+      "duplicate_full_summaries": 2,
+      "avg_jaccard_similarity": 0.326,
+      "avg_cosine_similarity": 0.62,
+      "high_similarity_pairs": 257,
+      "dominant_template": "Sophistication defines this contemporary piece.",
+      "top_repeated_4grams": [
+        {
+          "phrase": "sophistication defines this contemporary",
+          "count": 16
+        },
+        {
+          "phrase": "defines this contemporary piece",
+          "count": 16
+        },
+        {
+          "phrase": "this contemporary piece distinguished",
+          "count": 16
+        },
+        {
+          "phrase": "contemporary piece distinguished by",
+          "count": 16
+        },
+        {
+          "phrase": "piece distinguished by an",
+          "count": 16
+        },
+        {
+          "phrase": "distinguished by an understated",
+          "count": 16
+        },
+        {
+          "phrase": "by an understated silhouette",
+          "count": 16
+        },
+        {
+          "phrase": "an understated silhouette this",
+          "count": 16
+        },
+        {
+          "phrase": "bed frames the surrounding",
+          "count": 16
+        },
+        {
+          "phrase": "frames the surrounding room",
+          "count": 16
+        }
+      ],
+      "unsupported_claim_hits": {
+        "hand-finished": 6
+      },
+      "repetition_types": {
+        "A. Exact repetition": "2 exact full-summary duplicates",
+        "B. Near-exact repetition": "257 pairs with Jaccard >= 0.55 / Cosine >= 0.75",
+        "C. Structural repetition": "Opener reuse rate: 90.0% (5 unique across 50 items)",
+        "D. Semantic repetition": "Dominant opening template: \"Sophistication defines this contemporary piece....\" reused in 16 products",
+        "E. Vocabulary repetition": "Top repeated 4-grams: \"sophistication defines this contemporary\" (16x), \"defines this contemporary piece\" (16x), \"this contemporary piece distinguished\" (16x)",
+        "F. Product-fact repetition": "Material slot substitution on identical template skeleton",
+        "G. Unsupported factual insertion": "1 distinct unsupported claim types detected (hand-finished: 6)"
+      },
+      "likely_root_causes": [
+        "Static fallback generator with 3-4 fixed slot-filling paragraph templates",
+        "Deterministic modulo strategy selection causing cyclical template repetition",
+        "Insufficient dynamic feature extraction from source product attributes",
+        "Rigid narrative skeleton (Mood -> Intro -> Story -> Close) forcing identical rhetorical cadence",
+        "Uncontrolled marketing claim insertion (e.g. non-porous surfaces, traditional joinery) without source verification"
+      ]
+    },
+    {
+      "category": "Kids Room",
+      "records": 26,
+      "unique_openers": 5,
+      "opener_reuse_rate": "80.8%",
+      "unique_closers": 21,
+      "closer_reuse_rate": "19.2%",
+      "duplicate_full_summaries": 5,
+      "avg_jaccard_similarity": 0.32,
+      "avg_cosine_similarity": 0.586,
+      "high_similarity_pairs": 66,
+      "dominant_template": "Joyful wonder inspires fun moments.",
+      "top_repeated_4grams": [
+        {
+          "phrase": "joyful wonder inspires fun",
+          "count": 9
+        },
+        {
+          "phrase": "wonder inspires fun moments",
+          "count": 9
+        },
+        {
+          "phrase": "inspires fun moments relaxed",
+          "count": 9
+        },
+        {
+          "phrase": "fun moments relaxed lines",
+          "count": 9
+        },
+        {
+          "phrase": "moments relaxed lines and",
+          "count": 9
+        },
+        {
+          "phrase": "relaxed lines and an",
+          "count": 9
+        },
+        {
+          "phrase": "lines and an inviting",
+          "count": 9
+        },
+        {
+          "phrase": "and an inviting geometry",
+          "count": 9
+        },
+        {
+          "phrase": "an inviting geometry make",
+          "count": 9
+        },
+        {
+          "phrase": "inviting geometry make this",
+          "count": 9
+        }
+      ],
+      "unsupported_claim_hits": {},
+      "repetition_types": {
+        "A. Exact repetition": "5 exact full-summary duplicates",
+        "B. Near-exact repetition": "66 pairs with Jaccard >= 0.55 / Cosine >= 0.75",
+        "C. Structural repetition": "Opener reuse rate: 80.8% (5 unique across 26 items)",
+        "D. Semantic repetition": "Dominant opening template: \"Joyful wonder inspires fun moments....\" reused in 9 products",
+        "E. Vocabulary repetition": "Top repeated 4-grams: \"joyful wonder inspires fun\" (9x), \"wonder inspires fun moments\" (9x), \"inspires fun moments relaxed\" (9x)",
+        "F. Product-fact repetition": "Material slot substitution on identical template skeleton",
+        "G. Unsupported factual insertion": "0 distinct unsupported claim types detected (None)"
+      },
+      "likely_root_causes": [
+        "Static fallback generator with 3-4 fixed slot-filling paragraph templates",
+        "Deterministic modulo strategy selection causing cyclical template repetition",
+        "Insufficient dynamic feature extraction from source product attributes",
+        "Rigid narrative skeleton (Mood -> Intro -> Story -> Close) forcing identical rhetorical cadence",
+        "Uncontrolled marketing claim insertion (e.g. non-porous surfaces, traditional joinery) without source verification"
+      ]
+    },
+    {
+      "category": "Mattresses",
+      "records": 44,
+      "unique_openers": 5,
+      "opener_reuse_rate": "88.6%",
+      "unique_closers": 30,
+      "closer_reuse_rate": "31.8%",
+      "duplicate_full_summaries": 9,
+      "avg_jaccard_similarity": 0.304,
+      "avg_cosine_similarity": 0.583,
+      "high_similarity_pairs": 191,
+      "dominant_template": "Grand luxury creates an indulgent haven.",
+      "top_repeated_4grams": [
+        {
+          "phrase": "grand luxury creates an",
+          "count": 13
+        },
+        {
+          "phrase": "luxury creates an indulgent",
+          "count": 13
+        },
+        {
+          "phrase": "creates an indulgent haven",
+          "count": 13
+        },
+        {
+          "phrase": "an indulgent haven sculptural",
+          "count": 13
+        },
+        {
+          "phrase": "indulgent haven sculptural contours",
+          "count": 13
+        },
+        {
+          "phrase": "haven sculptural contours and",
+          "count": 13
+        },
+        {
+          "phrase": "sculptural contours and deliberate",
+          "count": 13
+        },
+        {
+          "phrase": "contours and deliberate details",
+          "count": 13
+        },
+        {
+          "phrase": "and deliberate details give",
+          "count": 13
+        },
+        {
+          "phrase": "deliberate details give this",
+          "count": 13
+        }
+      ],
+      "unsupported_claim_hits": {
+        "hand-finished": 11
+      },
+      "repetition_types": {
+        "A. Exact repetition": "9 exact full-summary duplicates",
+        "B. Near-exact repetition": "191 pairs with Jaccard >= 0.55 / Cosine >= 0.75",
+        "C. Structural repetition": "Opener reuse rate: 88.6% (5 unique across 44 items)",
+        "D. Semantic repetition": "Dominant opening template: \"Grand luxury creates an indulgent haven....\" reused in 13 products",
+        "E. Vocabulary repetition": "Top repeated 4-grams: \"grand luxury creates an\" (13x), \"luxury creates an indulgent\" (13x), \"creates an indulgent haven\" (13x)",
+        "F. Product-fact repetition": "Material slot substitution on identical template skeleton",
+        "G. Unsupported factual insertion": "1 distinct unsupported claim types detected (hand-finished: 11)"
+      },
+      "likely_root_causes": [
+        "Static fallback generator with 3-4 fixed slot-filling paragraph templates",
+        "Deterministic modulo strategy selection causing cyclical template repetition",
+        "Insufficient dynamic feature extraction from source product attributes",
+        "Rigid narrative skeleton (Mood -> Intro -> Story -> Close) forcing identical rhetorical cadence",
+        "Uncontrolled marketing claim insertion (e.g. non-porous surfaces, traditional joinery) without source verification"
+      ]
+    },
+    {
+      "category": "Pet Furniture",
+      "records": 0,
+      "unique_openers": 0,
+      "opener_reuse_rate": "0%",
+      "unique_closers": 0,
+      "closer_reuse_rate": "0%",
+      "duplicate_full_summaries": 0,
+      "avg_jaccard_similarity": 0,
+      "avg_cosine_similarity": 0,
+      "high_similarity_pairs": 0,
+      "dominant_template": "N/A",
+      "unsupported_claim_hits": {},
+      "repetition_types": {},
+      "likely_root_cause": [
+        "Empty category in archive"
+      ]
+    },
+    {
+      "category": "Wardrobes",
+      "records": 30,
+      "unique_openers": 30,
+      "opener_reuse_rate": "0.0%",
+      "unique_closers": 30,
+      "closer_reuse_rate": "0.0%",
+      "duplicate_full_summaries": 0,
+      "avg_jaccard_similarity": 0.245,
+      "avg_cosine_similarity": 0.523,
+      "high_similarity_pairs": 0,
+      "dominant_template": "Warm comfort welcomes every evening.",
+      "top_repeated_4grams": [
+        {
+          "phrase": "resilient particle board the",
+          "count": 19
+        },
+        {
+          "phrase": "particle board the steadfast",
+          "count": 14
+        },
+        {
+          "phrase": "a graceful inviting finish",
+          "count": 13
+        },
+        {
+          "phrase": "this three door wardrobe",
+          "count": 12
+        },
+        {
+          "phrase": "bring welcoming warmth and",
+          "count": 11
+        },
+        {
+          "phrase": "meticulously built with resilient",
+          "count": 10
+        },
+        {
+          "phrase": "built with resilient particle",
+          "count": 10
+        },
+        {
+          "phrase": "with resilient particle board",
+          "count": 10
+        },
+        {
+          "phrase": "lend a graceful inviting",
+          "count": 10
+        },
+        {
+          "phrase": "to your bedroom with",
+          "count": 10
+        }
+      ],
+      "unsupported_claim_hits": {
+        "hand-finished": 7
+      },
+      "repetition_types": {
+        "A. Exact repetition": "None",
+        "B. Near-exact repetition": "0 pairs with Jaccard >= 0.55 / Cosine >= 0.75",
+        "C. Structural repetition": "Opener reuse rate: 0.0% (30 unique across 30 items)",
+        "D. Semantic repetition": "Dominant opening template: \"Warm comfort welcomes every evening....\" reused in 1 products",
+        "E. Vocabulary repetition": "Top repeated 4-grams: \"resilient particle board the\" (19x), \"particle board the steadfast\" (14x), \"a graceful inviting finish\" (13x)",
+        "F. Product-fact repetition": "Material slot substitution on identical template skeleton",
+        "G. Unsupported factual insertion": "1 distinct unsupported claim types detected (hand-finished: 7)"
+      },
+      "likely_root_causes": [
+        "Static fallback generator with 3-4 fixed slot-filling paragraph templates",
+        "Deterministic modulo strategy selection causing cyclical template repetition",
+        "Insufficient dynamic feature extraction from source product attributes",
+        "Rigid narrative skeleton (Mood -> Intro -> Story -> Close) forcing identical rhetorical cadence",
+        "Uncontrolled marketing claim insertion (e.g. non-porous surfaces, traditional joinery) without source verification"
+      ]
+    }
+  ],
+  "regenerated_results": {
+    "Bedroom Storage": {
+      "category": "Bedroom Storage",
+      "total_products": 35,
+      "passed": 35,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 35,
+      "opener_reuse_rate": "0.0%",
+      "output_file": "bedroom_storage_generated.jsonl"
+    },
+    "Beds": {
+      "category": "Beds",
+      "total_products": 50,
+      "passed": 50,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 50,
+      "opener_reuse_rate": "0.0%",
+      "output_file": "beds_generated.jsonl"
+    },
+    "Kids Room": {
+      "category": "Kids Room",
+      "total_products": 26,
+      "passed": 26,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 26,
+      "opener_reuse_rate": "0.0%",
+      "output_file": "kids_room_generated.jsonl"
+    },
+    "Mattresses": {
+      "category": "Mattresses",
+      "total_products": 44,
+      "passed": 44,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 44,
+      "opener_reuse_rate": "0.0%",
+      "output_file": "mattresses_generated.jsonl"
+    },
+    "Wardrobes": {
+      "category": "Wardrobes",
+      "total_products": 30,
+      "passed": 30,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 30,
+      "opener_reuse_rate": "0.0%",
+      "output_file": "wardrobes_generated.jsonl"
+    },
+    "Pet Furniture": {
+      "category": "Pet Furniture",
+      "total_products": 0,
+      "passed": 0,
+      "failed": 0,
+      "grounding_errors": 0,
+      "schema_errors": 0,
+      "unique_openers": 0,
+      "opener_reuse_rate": "0%",
+      "output_file": "pet_furniture_generated.jsonl"
+    }
+  }
+}

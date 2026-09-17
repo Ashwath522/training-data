@@ -1,0 +1,701 @@
+{
+  "category": "Mattresses",
+  "items": [
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554609",
+      "name": "Orthopedic Memory Foam King Size Mattress with Latex (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Orthopedic",
+      "summary": "Responsive latex cushioning gives this standard size mattress a supportive sleeping plane tailored for primary master suites. The expansive mattress deck accommodates standard platform bed frames, giving sleepers generous resting room to unwind comfortably. Constructed with resilient latex layering, the internal core maintains its overall shape and rebound response over ongoing domestic use. A quilted exterior cover provides a smooth, gentle sleeping surface for peaceful and undisturbed nightly rest in the bedroom. Orthopedic enriches the bedroom suite with authentic latex construction, standard tones, and balanced room order.",
+      "opener": "Responsive latex cushioning gives this standard size mattress a supportive sleeping plane tailored for primary master suites",
+      "closer": "Orthopedic enriches the bedroom suite with authentic latex construction, standard tones, and balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.066Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554622",
+      "name": "Cloud Pocket Spring Queen Size Mattress with Memory Foam Eurotop (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Cloud",
+      "summary": "Dense memory foam core layering provides balanced sleeping support throughout the entire standard size sleeping surface for family living. Proportioned for standard master frames, the sleeping surface provides dedicated resting space for couples or individual sleepers comfortably. High-density memory foam materials deliver consistent structural support under regular domestic resting habits across all bed quarters. The structured mattress edge helps retain overall perimeter shape when placed on matching platform foundations throughout the home. With balanced proportions and a standard finish, Cloud brings lasting minimal harmony to daily domestic living.",
+      "opener": "Dense memory foam core layering provides balanced sleeping support throughout the entire standard size sleeping surface for family living",
+      "closer": "With balanced proportions and a standard finish, Cloud brings lasting minimal harmony to daily domestic living.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.067Z"
+    },
+    {
+      "id": "ul-essential-memory-foam-queen-size-mattress-7554598",
+      "name": "Orthopedic Memory Foam Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Orthopedic",
+      "summary": "A buoyant memory foam construction delivers adaptive surface comfort within this standard size format tailored for restful evening slumber. The full-size mattress profile provides comfortable resting area across the entire perimeter of your platform bed foundation neatly. Primary memory foam engineering ensures even weight distribution and dependable core stability across nightly family routines. Gentle surface cushioning pairs with core firmness to promote an unhurried, relaxing atmosphere for evening rest and tranquility. Orthopedic coordinates with surrounding furniture through authentic memory foam framing, practical utility, and warm living comfort.",
+      "opener": "A buoyant memory foam construction delivers adaptive surface comfort within this standard size format tailored for restful evening slumber",
+      "closer": "Orthopedic coordinates with surrounding furniture through authentic memory foam framing, practical utility, and warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.068Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-with-eurotop-7554603",
+      "name": "Dreamlite Bonnel Spring Queen Size Mattress with Eurotop (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Dreamlite",
+      "summary": "Engineered with a resilient bonnell spring core, this standard size mattress offers dependable body support during nightly sleeping routines. Sized for standard master bed dimensions, the mattress fits neatly onto platform decks without outer overhang or mattress slippage. Built from durable bonnell spring, the internal structure preserves lasting rebound resilience and core firmness across years of use. A breathable outer casing enhances surface comfort, creating a clean, inviting sleeping sanctuary for nightly repose. Finished in standard, Dreamlite completes your room arrangement with structured utility and uncluttered balance.",
+      "opener": "Engineered with a resilient bonnell spring core, this standard size mattress offers dependable body support during nightly sleeping routines",
+      "closer": "Finished in standard, Dreamlite completes your room arrangement with structured utility and uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.069Z"
+    },
+    {
+      "id": "ul-simplywud-essential-mattress-queen-colour-white-grey-8148071-9420561",
+      "name": "Essential Queen Size Mattress White & Grey (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Essential",
+      "summary": "Targeted foam layering delivers uniform weight distribution for the standard size resting deck in primary bedroom quarters. The generous surface area allows unrestricted sleeping movement while supporting natural resting postures all night long. High-density foam components maintain structural integrity, preventing sagging and core deformation over regular use. Even surface pressure dispersion allows muscles to relax naturally, supporting deep, restorative slumber throughout the night. Essential anchors the room with natural foam surfaces, understated lines, and functional order.",
+      "opener": "Targeted foam layering delivers uniform weight distribution for the standard size resting deck in primary bedroom quarters",
+      "closer": "Essential anchors the room with natural foam surfaces, understated lines, and functional order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.070Z"
+    },
+    {
+      "id": "ul-simplywud-classic-foam-mattress-queen-8115873-9420566",
+      "name": "Classic Foam Queen Size Mattress (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Classic",
+      "summary": "A supportive foam core provides balanced firmness and resting comfort on this standard size profile for the home. Engineered to standard frame dimensions, this mattress pairs seamlessly with slatted and platform bed foundations in master suites. Crafted with quality foam, the mattress delivers steady core alignment and durable rebound elasticity over ongoing rest. The tailored perimeter border prevents edge roll-off, maximizing the usable sleeping area across the entire mattress surface. Designed for domestic routines, Classic integrates standard aesthetics with dependable inviting domestic comfort.",
+      "opener": "A supportive foam core provides balanced firmness and resting comfort on this standard size profile for the home",
+      "closer": "Designed for domestic routines, Classic integrates standard aesthetics with dependable inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.071Z"
+    },
+    {
+      "id": "ul-simplywud-basic-coir-mattress-queen-8115874-9420569",
+      "name": "Basic Coir Queen Size Mattress (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Basic",
+      "summary": "Adaptive coir cushioning contours gently to body profiles while maintaining firm underlying support for nighttime repose. The broad sleeping deck provides ample personal room for couples to enjoy undisturbed, rejuvenating nightly slumber in master suites. Engineered with solid coir layers, the internal build resists impressions while providing continuous domestic support. A soft, textured casing complements the supportive core to establish a serene, comforting bedroom retreat for evening relaxation. Basic supports daily bedroom activities with genuine coir materials, tidy organization, and functional order.",
+      "opener": "Adaptive coir cushioning contours gently to body profiles while maintaining firm underlying support for nighttime repose",
+      "closer": "Basic supports daily bedroom activities with genuine coir materials, tidy organization, and functional order.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.073Z"
+    },
+    {
+      "id": "ul-theramedic-coir-foam-queen-size-mattress-7554626",
+      "name": "Orthopedic Coir &amp; Foam Queen Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Orthopedic",
+      "summary": "High-resilience coir core construction provides stable resting support across the sleeping quarters on this standard size bed. Proportioned to fit standard bed bases, the mattress maintains firm edge alignment and flat surface positioning on the platform. The resilient coir core supports varied body weights without losing structural firmness or rebound response over time. Balanced surface elasticity ensures effortless turning during sleep without disturbing your resting partner throughout the night. The balanced profile of Orthopedic pairs a standard exterior with functional domestic clean simplicity.",
+      "opener": "High-resilience coir core construction provides stable resting support across the sleeping quarters on this standard size bed",
+      "closer": "The balanced profile of Orthopedic pairs a standard exterior with functional domestic clean simplicity.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.074Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554612",
+      "name": "Cloud Pocket Spring King Size Mattress with Memory Foam Eurotop (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Cloud",
+      "summary": "Multi-layered memory foam engineering gives this standard size mattress a securely supportive surface for undisturbed nightly rest in the home. The expansive sleeping perimeter gives individuals and couples generous resting space to unwind and relax completely each evening. Built from selected memory foam, the mattress offers reliable core density and uniform surface resilience across daily use. The finished exterior casing provides a soft, tactile touch that enhances the comfort of your bed sheets and pillows. Cloud delivers reliable household service through authentic memory foam panels, warm standard tones, and restful sleep comfort.",
+      "opener": "Multi-layered memory foam engineering gives this standard size mattress a securely supportive surface for undisturbed nightly rest in the home",
+      "closer": "Cloud delivers reliable household service through authentic memory foam panels, warm standard tones, and restful sleep comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.076Z"
+    },
+    {
+      "id": "ul-aer-latex-queen-size-mattress-7554602",
+      "name": "Aer Latex with Memory Foam Queen Size Mattress (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Aer",
+      "summary": "A dense latex foundation delivers consistent surface firmness for domestic master suites on this standard size foundation. Sized precisely for master bed platforms, the mattress integrates smoothly with your existing bedroom furniture arrangement. Solid latex internal layering ensures dependable core stability, balanced resistance, and lasting domestic performance. Consistent edge-to-edge firmness ensures stable support whether resting in the center or near the outer perimeter. Built for everyday domestic life, Aer combines solid latex elements with standard styling and solid foundation strength.",
+      "opener": "A dense latex foundation delivers consistent surface firmness for domestic master suites on this standard size foundation",
+      "closer": "Built for everyday domestic life, Aer combines solid latex elements with standard styling and solid foundation strength.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.078Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-7554599",
+      "name": "Dreamlite Bonnel Spring Queen Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Dreamlite",
+      "summary": "Plush surface quilting pairs with a durable bonnell spring core to provide soothing relaxation inside this standard size sleep system. The spacious mattress surface offers full-body resting support while preserving comfortable bedside clearance in the bedroom. High-density bonnell spring engineering provides structural stability, level core tracking, and durable perimeter resilience. A quilted top layer cushions pressure points gently, helping you unwind completely after a long, active day. Dreamlite introduces disciplined storage utility and standard character to elevate your bedroom with unhurried morning rest.",
+      "opener": "Plush surface quilting pairs with a durable bonnell spring core to provide soothing relaxation inside this standard size sleep system",
+      "closer": "Dreamlite introduces disciplined storage utility and standard character to elevate your bedroom with unhurried morning rest.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> SPATIAL_FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.079Z"
+    },
+    {
+      "id": "ul-simplywud-essential-mattress-single-colour-white-grey-8148070-9420568",
+      "name": "Essential Mattress Single Colour White &amp; Grey (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 36 in)",
+      "shortName": "Essential",
+      "summary": "Engineered foam layers deliver adaptive body cushioning and motion dampening for standard standard size bed foundations. Engineered for standard bed frames, the mattress deck provides uniform edge-to-edge sleeping comfort every night of the week. Constructed with foam, the internal build preserves enduring shape retention, strength, and material stability over years. The tailored casing design keeps internal materials securely positioned, ensuring lasting surface smoothness across ongoing use. With clean geometric contours and standard surfaces, Essential enhances your quarters with balanced room order.",
+      "opener": "Engineered foam layers deliver adaptive body cushioning and motion dampening for standard standard size bed foundations",
+      "closer": "With clean geometric contours and standard surfaces, Essential enhances your quarters with balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.081Z"
+    },
+    {
+      "id": "ul-simplywud-basic-coir-mattress-king-8115871-9420564",
+      "name": "Basic Coir King Size Mattress (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Basic",
+      "summary": "A supportive coir internal build ensures lasting surface integrity inside modern master bedrooms with this standard size unit. The generous sleeping plane accommodates varied sleep positions while ensuring deep, restorative rest for couples each night. Primary coir layering delivers robust core balance and precise internal density throughout nightly resting routines. Even weight dispersion across the mattress surface fosters a peaceful, restorative sleeping environment for family members. Basic offers dependable domestic utility through authentic coir joinery and understated sophistication.",
+      "opener": "A supportive coir internal build ensures lasting surface integrity inside modern master bedrooms with this standard size unit",
+      "closer": "Basic offers dependable domestic utility through authentic coir joinery and understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.083Z"
+    },
+    {
+      "id": "ul-theramedic-coir-foam-king-size-mattress-7554614",
+      "name": "Orthopedic Coir &amp; Foam King Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Orthopedic",
+      "summary": "Dynamic coir core cushioning provides responsive comfort along the spacious standard size sleeping deck for master suites. Proportioned for standard master bases, the mattress sits flush against headboards and platform side rails neatly. Built with authentic coir, the core structure and perimeter walls maintain dependable load-bearing strength. A reinforced perimeter border provides firm seating support along the edge of the bed during morning dressing routines. Showcasing an authentic standard exterior, Orthopedic provides lasting inviting domestic comfort for master bedrooms.",
+      "opener": "Dynamic coir core cushioning provides responsive comfort along the spacious standard size sleeping deck for master suites",
+      "closer": "Showcasing an authentic standard exterior, Orthopedic provides lasting inviting domestic comfort for master bedrooms.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.085Z"
+    },
+    {
+      "id": "ul-cloud-eurotop-pocket-spring-king-size-mattress-with-latex-7554596",
+      "name": "Cloud Eurotop Pocket Spring King Size Mattress with Latex (Mattress Thickness : 7 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Cloud",
+      "summary": "Resilient latex construction delivers balanced sleeping comfort within master bedroom suites on this standard size platform. The wide surface deck provides couples with undisturbed sleeping zones, minimizing nighttime movement transfer across the bed. Solid latex layers ensure lasting structural durability, reliable core rebound, and authentic material resilience. The smooth finished surface creates a welcoming sleeping plane that pairs beautifully with cotton bed sheets and duvets. Cloud brings together solid latex construction and a standard stain to create inviting domestic comfort.",
+      "opener": "Resilient latex construction delivers balanced sleeping comfort within master bedroom suites on this standard size platform",
+      "closer": "Cloud brings together solid latex construction and a standard stain to create inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.088Z"
+    },
+    {
+      "id": "ul-aer-latex-king-size-mattress-7554623",
+      "name": "Aer Latex King Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Aer",
+      "summary": "A high-density latex core provides steady perimeter firmness on this standard size bed platform for active homes. Sized to fit platform and box beds, the mattress delivers dependable perimeter stability across the entire resting area. Engineered latex construction provides durable core strength, level placement, and dependable internal support. Gentle contouring at the surface promotes natural relaxation, helping you fall asleep quickly and comfortably every evening. Clean lines and standard surface tones ensure Aer delivers enduring minimal harmony to your home.",
+      "opener": "A high-density latex core provides steady perimeter firmness on this standard size bed platform for active homes",
+      "closer": "Clean lines and standard surface tones ensure Aer delivers enduring minimal harmony to your home.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.090Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-with-eurotop-7554620",
+      "name": "Dreamlite Bonnel Spring King Size Mattress with Eurotop (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Dreamlite",
+      "summary": "Targeted bonnell spring core layers offer adaptive contouring and dependable resting stability for standard standard size beds. The expansive resting plane allows full-body relaxation, giving sleepers generous room to stretch out comfortably all night. Crafted with bonnell spring, the mattress maintains rock-solid core integrity, level support, and lasting durability over time. A durable quilted cover protects the internal core while providing a plush, inviting surface to rest upon each night. Dreamlite fits naturally into master suites, combining bonnell spring framing with functional order.",
+      "opener": "Targeted bonnell spring core layers offer adaptive contouring and dependable resting stability for standard standard size beds",
+      "closer": "Dreamlite fits naturally into master suites, combining bonnell spring framing with functional order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> PRACTICAL_USE -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.092Z"
+    },
+    {
+      "id": "ul-simplywud-classic-foam-mattress-king-8115872-9420563",
+      "name": "Classic King Size Foam Mattress (Mattress Thickness : 4 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Classic",
+      "summary": "Buoyant foam engineering delivers surface comfort alongside stable core support in this standard size mattress for bedrooms. Engineered to standard bed dimensions, the mattress provides balanced edge support and consistent surface alignment across decks. The durable foam core delivers steady internal stability and durable layer alignment across daily domestic living. Balanced surface response allows natural shifts in sleeping posture while maintaining continuous, gentle body support. With its understated standard silhouette, Classic establishes an atmosphere of warm living comfort.",
+      "opener": "Buoyant foam engineering delivers surface comfort alongside stable core support in this standard size mattress for bedrooms",
+      "closer": "With its understated standard silhouette, Classic establishes an atmosphere of warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.095Z"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554616",
+      "name": "Orthopedic Memory Foam King Size Mattress with Latex (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Orthopedic",
+      "summary": "A dense latex mattress core maintains even weight dispersion on this standard size sleeping plane in master quarters. The spacious mattress profile offers dedicated sleeping area for couples, ensuring peaceful and restorative rest throughout. Solid latex construction provides structured support across the mattress, preventing localized dipping or sagging. The clean perimeter tailoring maintains a neat, disciplined mattress profile on your platform bed frame foundation. Orthopedic enriches master bedroom arrangements through natural latex texture and pure geometric clarity.",
+      "opener": "A dense latex mattress core maintains even weight dispersion on this standard size sleeping plane in master quarters",
+      "closer": "Orthopedic enriches master bedroom arrangements through natural latex texture and pure geometric clarity.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.098Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554608",
+      "name": "Cloud Pocket Spring King Size Mattress with Memory Foam Eurotop (Mattress Thickness : 10 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Cloud",
+      "summary": "Responsive memory foam materials provide adaptive body support and peaceful sleep upon this comfortable standard size mattress. Proportioned for master bed frames, the mattress maintains flat surface contact with the underlying deck support foundations. Built from solid memory foam, the mattress core preserves readily steady structural support and flat alignment over time. A supportive sleeping surface reduces restless tossing, creating a tranquil environment for deep nighttime rest. Tailored for everyday family routines, Cloud unites a standard finish with restful sleep comfort.",
+      "opener": "Responsive memory foam materials provide adaptive body support and peaceful sleep upon this comfortable standard size mattress",
+      "closer": "Tailored for everyday family routines, Cloud unites a standard finish with restful sleep comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.101Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-7554604",
+      "name": "Dreamlite Bonnel Spring King Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Dreamlite",
+      "summary": "High-resilience bonnell spring layering delivers balanced surface firmness for master bedchambers on this standard size base. The full-size sleeping deck accommodates standard bedding sets while providing generous personal resting room for couples. High-density bonnell spring construction forms the internal core layers, ensuring dependable domestic stability across years. The soft exterior casing enhances airflow at the surface, keeping your sleeping environment fresh and comfortable all night. Dreamlite provides steadfast household service, combining bonnell spring panels with balanced room order.",
+      "opener": "High-resilience bonnell spring layering delivers balanced surface firmness for master bedchambers on this standard size base",
+      "closer": "Dreamlite provides steadfast household service, combining bonnell spring panels with balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.104Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-7554606",
+      "name": "Dreamlite Bonnel Spring King Size Mattress (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Dreamlite",
+      "summary": "A supportive bonnell spring internal structure ensures steady body alignment within primary suites on this standard size model. Sized precisely for platform bed bases, the mattress ensures stable positioning without shifting during the night. Built from bonnell spring, the unit offers consistent material texture, robust density, and reliable structure. Firm perimeter support ensures you can utilize the entire width of the mattress with complete confidence and comfort. An authentic standard finish allows Dreamlite to complement existing bedroom furniture with minimal harmony.",
+      "opener": "A supportive bonnell spring internal structure ensures steady body alignment within primary suites on this standard size model",
+      "closer": "An authentic standard finish allows Dreamlite to complement existing bedroom furniture with minimal harmony.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.107Z"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554627",
+      "name": "Orthopedic Memory Foam Queen Size Mattress with Latex (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Orthopedic",
+      "summary": "Engineered with selected latex, this standard size mattress provides uniform surface support for master bedroom suites. The expansive surface perimeter supports varied sleeping postures, allowing deep and unhurried relaxation each evening. Solid latex components supply steadfast structural integrity, core stability, and durable load resistance. A plush quilted surface layer cradles the body gently while underlying firmness keeps the resting plane level. Orthopedic completes the master suite layout through sturdy latex framing and clean simplicity.",
+      "opener": "Engineered with selected latex, this standard size mattress provides uniform surface support for master bedroom suites",
+      "closer": "Orthopedic completes the master suite layout through sturdy latex framing and clean simplicity.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.110Z"
+    },
+    {
+      "id": "ul-cloud-eurotop-pocket-spring-queen-size-mattress-with-latex-7554615",
+      "name": "Cloud Eurotop Pocket Spring Queen Size Mattress with Latex (Mattress Thickness : 7 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Cloud",
+      "summary": "Adaptive latex core construction delivers pressure-relieving comfort within primary sleeping chambers. Engineered for standard master frames, the mattress fits securely against bedroom headboards and platform edges neatly. Primary latex layering ensures solid core density, level surface positions, and balance across nightly routines. The durable border casing maintains crisp mattress edges, keeping your bedroom presentation tidy and neat at all times. Structured proportions and a standard exterior make Cloud a trusted addition for inviting domestic warmth.",
+      "opener": "Adaptive latex core construction delivers pressure-relieving comfort within primary sleeping chambers",
+      "closer": "Structured proportions and a standard exterior make Cloud a trusted addition for inviting domestic warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.113Z"
+    },
+    {
+      "id": "ul-aer-latex-queen-size-mattress-7554625",
+      "name": "Aer Latex Queen Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Aer",
+      "summary": "A dense latex sleeping platform provides balanced firmness for growing families on this standard size base. The generous sleeping plane provides couples with ample resting space, promoting peaceful, undisturbed slumber each night. Built with latex, the internal build delivers unwavering integrity and uniform core alignment across ongoing use. Consistent surface comfort across the entire mattress allows couples to sleep soundly and peacefully without waking. Aer enriches modern bedroom quarters with solid latex support and minimal harmony.",
+      "opener": "A dense latex sleeping platform provides balanced firmness for growing families on this standard size base",
+      "closer": "Aer enriches modern bedroom quarters with solid latex support and minimal harmony.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.117Z"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-temperature-control-7554621",
+      "name": "Orthopedic Memory Foam Queen Size Mattress with Temperature Control (Mattress Thickness : 5 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Orthopedic",
+      "summary": "Targeted memory foam cushioning pairs with a supportive base to deliver deep rest throughout dedicated sleeping quarters using this standard size bed. Proportioned carefully to standard bed readily dimensions, the mattress pairs effortlessly with slatted decks and solid platform bases. Durable memory foam construction ensures lasting core rigidity, dependable body support, and consistent material character. A breathable outer casing promotes a clean, restful sleeping atmosphere tailored for nightly rejuvenation and health. With genuine memory foam materials and a standard tone, Orthopedic fosters lasting unhurried morning rest.",
+      "opener": "Targeted memory foam cushioning pairs with a supportive base to deliver deep rest throughout dedicated sleeping quarters using this standard size bed",
+      "closer": "With genuine memory foam materials and a standard tone, Orthopedic fosters lasting unhurried morning rest.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.121Z"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-temperature-control-7554600",
+      "name": "Orthopedic Memory Foam King Size Mattress with Temperature Control (Mattress Thickness : 5 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Orthopedic",
+      "summary": "Resilient memory foam core materials ensure even weight distribution throughout nighttime resting hours on this standard size deck. The wide mattress surface allows comfortable full-body stretching while maintaining edge-to-edge support across all corners. Engineered with solid memory foam, the mattress maintains rock-solid readily core density and flat alignment over time. Gentle surface cushioning helps soothe tired muscles, promoting deep and undisturbed sleep across all hours. Orthopedic provides practical domestic utility while maintaining an inviting sense of pure geometric clarity.",
+      "opener": "Resilient memory foam core materials ensure even weight distribution throughout nighttime resting hours on this standard size deck",
+      "closer": "Orthopedic provides practical domestic utility while maintaining an inviting sense of pure geometric clarity.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.124Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554611",
+      "name": "Cloud Pocket Spring Queen Size Mattress with Memory Foam Eurotop (Mattress Thickness : 10 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Cloud",
+      "summary": "A high-density memory foam build offers dependable core firmness across active household master quarters using this standard size foundation. Sized for master bed foundations, the mattress delivers consistent firmness from the center to the outer perimeter. Solid memory foam construction delivers daily steady structural support and durable core stability throughout family routines. The structured perimeter construction prevents sagging along the edges, ensuring enduring mattress shape over years. The refined standard surfaces of Cloud bring natural warmth and dependable structural integrity to your living space.",
+      "opener": "A high-density memory foam build offers dependable core firmness across active household master quarters using this standard size foundation",
+      "closer": "The refined standard surfaces of Cloud bring natural warmth and dependable structural integrity to your living space.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.128Z"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134280",
+      "name": "Revitalize Cool Gel 5-Zone HR Memory Foam Mattress",
+      "shortName": "Revitalize",
+      "summary": "Buoyant memory foam layers contour gently to body curves while providing steady support during slumber on this standard size mattress. The expansive sleeping deck accommodates standard sheets and mattress protectors with a neat, snug fit on the bed. High-quality memory foam layers ensure lasting core stability, durable perimeter walls, and level surface placement. A smooth, tailored casing creates an inviting resting plane that enhances your master bedroom comfort each night. Revitalize unifies master bedroom aesthetics through solid memory foam craft and balanced room order.",
+      "opener": "Buoyant memory foam layers contour gently to body curves while providing steady support during slumber on this standard size mattress",
+      "closer": "Revitalize unifies master bedroom aesthetics through solid memory foam craft and balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.133Z"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8133485",
+      "name": "Revitalize Cool Gel 5-Zone HR Memory Foam Mattress",
+      "shortName": "Revitalize",
+      "summary": "A supportive memory foam core architecture provides balanced body alignment inside the master bedchamber on this standard size bed. Engineered to fit standard frames, the mattress provides generous personal room for deep, restorative sleep every evening. Crafted from memory foam, readily the structure delivers steady core alignment, authentic texture, and solid layer support. Balanced core firmness and surface cushioning create an optimal balance of comfort and resting support across the deck. Everyday convenience and standard styling define the lasting appeal of Revitalize for uncluttered balance.",
+      "opener": "A supportive memory foam core architecture provides balanced body alignment inside the master bedchamber on this standard size bed",
+      "closer": "Everyday convenience and standard styling define the lasting appeal of Revitalize for uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.137Z"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134790",
+      "name": "Revitalize Cool Gel 5-Zone HR Memory Foam Mattress (72 x 35 in, 6 Inches)",
+      "shortName": "Revitalize",
+      "summary": "Dynamic memory foam cushioning delivers pressure dispersion on this standard size platform in master suites. The spacious resting surface minimizes motion transfer, allowing couples to sleep soundly without waking each other. The resilient memory foam core supports sleeper loads and heavy bedding with dependable, uniform ease over time. The finished casing prevents shifting of inner layers, ensuring uniform comfort across years of daily domestic use. Revitalize elevates master bedroom storage through authentic memory foam components and functional order.",
+      "opener": "Dynamic memory foam cushioning delivers pressure dispersion on this standard size platform in master suites",
+      "closer": "Revitalize elevates master bedroom storage through authentic memory foam components and functional order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.141Z"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134021",
+      "name": "Revitalize Cool Gel 5-Zone HR Memory Foam Mattress",
+      "shortName": "Revitalize",
+      "summary": "Engineered memory foam core layering ensures uniform sleeping support for family homes on this standard size mattress. Proportioned for master platform beds, the mattress sits level on the foundation for stable nightly comfort. Built with solid memory foam, the reliably structure delivers dependable load assistance and stable core density across use. Even weight distribution across the sleeping deck supports natural body alignment for refreshing morning awakenings. Warm standard hues allow Revitalize to blend seamlessly into your home with minimal harmony.",
+      "opener": "Engineered memory foam core layering ensures uniform sleeping support for family homes on this standard size mattress",
+      "closer": "Warm standard hues allow Revitalize to blend seamlessly into your home with minimal harmony.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.146Z"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8135270",
+      "name": "Revitalize Cool Gel 5-Zone HR Memory Foam Mattress",
+      "shortName": "Revitalize",
+      "summary": "A dense memory foam foundation provides steady underlying support throughout the sleep surface of this standard size profile. The full-size mattress plane offers ample resting area, supporting natural sleeping habits throughout the night. Primary memory foam construction ensures reliable core framing, authentic texture, and long-term domestic stability. A soft quilted outer layer provides comforting surface tactility, setting the stage for restful evening sleep. Revitalize supports comfortable domestic living with genuine memory foam framing and dependable structural integrity.",
+      "opener": "A dense memory foam foundation provides steady underlying support throughout the sleep surface of this standard size profile",
+      "closer": "Revitalize supports comfortable domestic living with genuine memory foam framing and dependable structural integrity.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.152Z"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554610",
+      "name": "Orthopedic Memory Foam Queen Size Mattress with Latex (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Orthopedic",
+      "summary": "High-resilience latex materials deliver adaptive body contouring across contemporary interior layouts with this standard size mattress. Sized precisely for standard frames, the mattress maintains flat, uniform contact across the supporting deck. Solid latex layering supports the sleeping surface without sagging or core fatigue under regular domestic use. The reinforced edge design ensures firm perimeter stability when sitting or getting out of bed in the morning hours. A streamlined standard facade ensures Orthopedic brings understated graceful aesthetic balance to your quarters.",
+      "opener": "High-resilience latex materials deliver adaptive body contouring across contemporary interior layouts with this standard size mattress",
+      "closer": "A streamlined standard facade ensures Orthopedic brings understated graceful aesthetic balance to your quarters.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.158Z"
+    },
+    {
+      "id": "ul-ortho-pocket-spring-mattress-8133544",
+      "name": "Ortho Pocket Spring Mattress",
+      "shortName": "Ortho",
+      "summary": "A supportive pocket springs core configuration ensures even weight dispersion in the home on this standard size frame. The generous surface perimeter provides couples with spacious sleeping berths for peaceful evening unwinding. Constructed with authentic pocket springs, the inner core and support layers deliver steady structural balance. A breathable top casing helps maintain a pleasant sleeping temperature for comfortable, uninterrupted nightly rest. Ortho enriches the sleeping environment through authentic pocket springs structure and warm living comfort.",
+      "opener": "A supportive pocket springs core configuration ensures even weight dispersion in the home on this standard size frame",
+      "closer": "Ortho enriches the sleeping environment through authentic pocket springs structure and warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> PRACTICAL_USE -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.163Z"
+    },
+    {
+      "id": "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140423",
+      "name": "Pure Sleep Premium Orthopedic Pocket Spring Mattress",
+      "shortName": "Pure",
+      "summary": "Targeted pocket springs core engineering provides balanced firmness in primary bedrooms on this standard size deck. Engineered for standard primary bases, the mattress integrates cleanly with headboard framing and side rails. Solid pocket springs materials ensure dependable core resilience, firm support, and lasting household performance. Gentle surface contouring relieves muscle tension, facilitating deep and peaceful slumber across all night hours. Functional design and a standard stain make Pure a dependable companion for balanced room order.",
+      "opener": "Targeted pocket springs core engineering provides balanced firmness in primary bedrooms on this standard size deck",
+      "closer": "Functional design and a standard stain make Pure a dependable companion for balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.169Z"
+    },
+    {
+      "id": "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140132",
+      "name": "Pure Sleep Premium Orthopedic Pocket Spring Mattress (75 x 36 in, 6 Inches)",
+      "shortName": "Pure",
+      "summary": "Durable pocket springs layers deliver stable surface alignment and gentle resting ease on this standard size mattress. The expansive mattress deck accommodates varied sleeping positions while ensuring continuous body support throughout the night. High-density pocket springs engineering maintains steady internal alignment, durable walls, and reliable core support. The tailored perimeter piping preserves a crisp, modern aesthetic on any matching bed platform foundation. Pure establishes structured bedroom utility through solid pocket springs elements and unhurried morning rest.",
+      "opener": "Durable pocket springs layers deliver stable surface alignment and gentle resting ease on this standard size mattress",
+      "closer": "Pure establishes structured bedroom utility through solid pocket springs elements and unhurried morning rest.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.174Z"
+    },
+    {
+      "id": "ul-back-support-orthosense-cocopedic-tech-queen-size-mattress-8370650",
+      "name": "Back Support Orthosense Cocopedic Tech Queen Size Mattress (78 x 66 in, 8 Inches)",
+      "shortName": "Back",
+      "summary": "A resilient coir internal structure ensures lasting shape retention throughout nightly resting routines with this standard size model. Proportioned to fit platform bed foundations, the mattress delivers reliable perimeter firmness and flat alignment. The durable coir core supports full sleeper weight and bedding neatly sets with steadfast reliability over time. Balanced body support across the mattress deck promotes restorative rest and energized morning awakenings for families. With its clean standard profile, Back introduces a tranquil sense of authentic quality.",
+      "opener": "A resilient coir internal structure ensures lasting shape retention throughout nightly resting routines with this standard size model",
+      "closer": "With its clean standard profile, Back introduces a tranquil sense of authentic quality.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.180Z"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-7554613",
+      "name": "Dreamlite Bonnel Spring Queen Size Mattress (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Dreamlite",
+      "summary": "High-density bonnell spring layering provides stable resting alignment across residential master suites with this standard size mattress unit. The wide sleeping surface gives individuals and couples generous room to relax and enjoy deep nighttime rest. Built with bonnell spring, the mattress delivers unwavering structural integrity and uniform surface response across use. A plush quilted surface layer adds a touch of everyday comfort, enhancing master bedroom relaxation and quiet rest. Dreamlite coordinates effortlessly with master bedroom furnishings through bonnell spring panels and uncluttered balance.",
+      "opener": "High-density bonnell spring layering provides stable resting alignment across residential master suites with this standard size mattress unit",
+      "closer": "Dreamlite coordinates effortlessly with master bedroom furnishings through bonnell spring panels and uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.186Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-hd-foam-7554601",
+      "name": "Cloud Pocket Spring Queen Size Mattress with HD Foam (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Cloud",
+      "summary": "A buoyant pocket springs core architecture delivers adaptive surface comfort in bedrooms on this standard size platform. Sized for standard bed dimensions, the mattress fits flush against bed rails, preventing unwanted shifting during sleep. daily Primary pocket springs readily layering ensures solid securely core density, level sleeping planes, and balance throughout living. The structured border casing prevents edge compression, ensuring full-width sleeping comfort for resting couples. Dependable construction and a standard finish ensure Cloud provides daily warm living comfort.",
+      "opener": "A buoyant pocket springs core architecture delivers adaptive surface comfort in bedrooms on this standard size platform",
+      "closer": "Dependable construction and a standard finish ensure Cloud provides daily warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.197Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-hd-foam-7554607",
+      "name": "Cloud Pocket Spring King Size Mattress with HD Foam (Mattress Thickness : 8 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Cloud",
+      "summary": "Responsive pocket springs engineering ensures uniform body support throughout everyday domestic routines on this standard size bed. The generous resting plane allows unrestrained sleeping movement while maintaining consistent surface comfort all night. Durable pocket springs construction ensures lasting internal rigidity, dependable support, and material resilience. Consistent core resistance and surface softness work together to create a tranquil, restful sleep haven in the room. Cloud anchors the sleeping space with genuine pocket springs components and uncluttered balance.",
+      "opener": "Responsive pocket springs engineering ensures uniform body support throughout everyday domestic routines on this standard size bed",
+      "closer": "Cloud anchors the sleeping space with genuine pocket springs components and uncluttered balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.204Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-7554618",
+      "name": "Cloud Pocket Spring Queen Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 60 in)",
+      "shortName": "Cloud",
+      "summary": "A dense pocket springs core provides dependable underlying firmness to elevate securely modern master bedrooms with carefully this standard size sleep system. Engineered to standard master frames, the mattress provides uniform edge-to-edge support across nightly family routines. Sturdy pocket springs members deliver steadfast structural integrity, core steadiness, and durable load resistance. A durable, finely stitched casing protects the internal build while delivering a gentle, comforting touch for sleep. A classic standard appearance gives Cloud a timeless presence marked by modern refinement.",
+      "opener": "A dense pocket springs core provides dependable underlying firmness to elevate securely modern master bedrooms with carefully this standard size sleep system",
+      "closer": "A classic standard appearance gives Cloud a timeless presence marked by modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> PRACTICAL_USE -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.210Z"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-7554593",
+      "name": "Cloud Pocket Spring King Size Mattress (Mattress Thickness : 6 Inches, Mattress Dimensions : 78 x 72 in)",
+      "shortName": "Cloud",
+      "summary": "Targeted pocket springs cushioning materials deliver balanced pressure relief in the home reliably on this standard size frame. The expansive sleeping surface accommodates couples comfortably, supporting undisturbed, restful slumber throughout the night. Constructed from pocket springs, the mattress core preserves enduring shape and stable perimeter bracing over years. Even pressure dispersion across the entire sleeping plane ensures uninterrupted, deep nighttime sleep for everyone. Cloud enhances everyday bedroom organization with solid pocket springs integrity and welcoming home presence.",
+      "opener": "Targeted pocket springs cushioning materials deliver balanced pressure relief in the home reliably on this standard size frame",
+      "closer": "Cloud enhances everyday bedroom organization with solid pocket springs integrity and welcoming home presence.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> SPATIAL_FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.217Z"
+    },
+    {
+      "id": "ul-gravity-hybrid-euro-top-5-zoned-zero-partner-disturbance-7-layered-foam-pocket-spring-mattress-8134267",
+      "name": "Gravity Hybrid Euro Top 5 Zoned Zero Partner Disturbance & 7 Layered Foam Pocket Spring Mattress (75 x 60 in, 6 Inches)",
+      "shortName": "Gravity",
+      "summary": "Supportive pocket springs construction provides consistent surface comfort for the family home on this standard size mattress. Proportioned for standard platform foundations, the mattress delivers dependable surface stability every single night. Engineered pocket springs layers provide durable internal strength, level mattress placement, and lasting frame balance. The balanced mattress construction provides an enduring foundation for healthy, restorative sleep every night of the year. With warm standard tones, Gravity brings an understated balance of utility and warm living comfort.",
+      "opener": "Supportive pocket springs construction provides consistent surface comfort for the family home on this standard size mattress",
+      "closer": "With warm standard tones, Gravity brings an understated balance of utility and warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "size"
+      ],
+      "timestamp": "2026-09-15T11:37:15.228Z"
+    }
+  ],
+  "angleCounts": {
+    "STRUCTURE_A": 44
+  },
+  "structureCounts": {
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 4,
+    "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 2,
+    "USE_CASE -> FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 5,
+    "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 3,
+    "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> SPATIAL_FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> PRACTICAL_USE -> PRACTICAL_USE -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 1,
+    "OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> PRACTICAL_USE -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> SPATIAL_FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1
+  },
+  "updated_at": "2026-09-15T11:37:15.229Z"
+}

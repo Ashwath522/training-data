@@ -1,0 +1,2226 @@
+{
+  "version": "1.0.0",
+  "description": "Persistent seen-IDs and SKUs index across all categories and runs to guarantee deduplication.",
+  "total_seen_count": 391,
+  "last_updated": "2026-09-15T06:45:48.623Z",
+  "seen_ids": [
+    "ACMRRC11TK10024",
+    "AER-LATEX-KING-SIZE-MATTRESS-7554623",
+    "AER-LATEX-QUEEN-SIZE-MATTRESS-7554602",
+    "AER-LATEX-QUEEN-SIZE-MATTRESS-7554625",
+    "BACK-SUPPORT-ORTHOSENSE-COCOPEDIC-TECH-QUEEN-SIZE-MATTRESS-8370650",
+    "CLOUD-EUROTOP-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-LATEX-7554596",
+    "CLOUD-EUROTOP-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554615",
+    "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-7554593",
+    "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-HD-FOAM-7554607",
+    "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554608",
+    "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554612",
+    "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-7554618",
+    "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-HD-FOAM-7554601",
+    "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554611",
+    "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554622",
+    "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554604",
+    "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554606",
+    "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-WITH-EUROTOP-7554620",
+    "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554599",
+    "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554613",
+    "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-WITH-EUROTOP-7554603",
+    "ESSENTIAL-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-7554598",
+    "FNBAR01MF10059",
+    "FNBAR02TL10060",
+    "FNBDST33RB36141",
+    "FNBDST43DW35094",
+    "FNBN02OB10048",
+    "FNBSTB12AW16508",
+    "FNBSTB12AW36590",
+    "FNBSTB12AW38033",
+    "FNCB3D33BE36274",
+    "FNCH01TK10047",
+    "FNCHR01JB10063",
+    "FNCHR02CB10064",
+    "FNCOMB33BE38279",
+    "FNCOMB33BE38281",
+    "FNCOMB33BL38287",
+    "FNCOMB33BR38289",
+    "FNCOMB33OG38283",
+    "FNCOMB33OG38285",
+    "FNDST06HF10055",
+    "FNDWN11WW10046",
+    "FNKTC02CB10057",
+    "FNKTC03WW10058",
+    "FNOFF01DW10065",
+    "FNOFF02EB10066",
+    "FNOUT01EM10054",
+    "FNOUT02FG10053",
+    "FNRC01SB10043",
+    "FNRC03CG10044",
+    "FNSBD31TG10045",
+    "FNSFBD62BB36094",
+    "FNSFSC26GO35118",
+    "FNSFSC33ST37812",
+    "FNSFSC62MN10001",
+    "FNSFST31IN10041",
+    "FNSFST51HT10042",
+    "FNSGCB11MH10012",
+    "FNSGCB11TK16350",
+    "FNSGCB12AW37779",
+    "FNSGCB12DC37779",
+    "FNSGCB12MH16309",
+    "FNSGCB12RC36391",
+    "FNSGCB333D36337",
+    "FNSGCB333W16519",
+    "FNSGCB33BR36235",
+    "FNSGCB33CA30003",
+    "FNSGCB33CA30012",
+    "FNSGCB33CW36048",
+    "FNSGCB33DW35584",
+    "FNSGCB33DW35585",
+    "FNSGCB33OA36163",
+    "FNSGCB41DW30068",
+    "FNSGCB43CW35097",
+    "FNSGCB43CW35099",
+    "FNSGCB43CW35100",
+    "FNSGCB43DW35100",
+    "FNSGCDF12AM16330",
+    "FNSGDR11TK16166",
+    "FNSGDR12AW16467",
+    "FNSGDR12AW16542",
+    "FNSGDR12DW16408",
+    "FNSGDR12DW16492",
+    "FNSGDR33BE36195",
+    "FNSGDR33CW35799",
+    "FNSGDR33DW35583",
+    "FNSGDR41DW30127",
+    "FNSGDR41WL30095",
+    "FNSGDR62NW16054",
+    "FNSGDT62WA36249",
+    "FNSGF11TK36328",
+    "FNSTD01WF10062",
+    "FNSTD03HT10061",
+    "FNSTR03PT10051",
+    "FNTBBS11TK10042",
+    "FNTBBS11TK15064",
+    "FNTBBS12DW16406",
+    "FNTBBS12RC36386",
+    "FNTBBS33BR36376",
+    "FNTBBS33CW35796",
+    "FNTBBS41WL30048",
+    "FNTBBS43CW35091",
+    "FNTBBT11TK16324",
+    "FNTBDM11TK16333",
+    "FNTBDM12DW16407",
+    "FNTBDS11MH16348",
+    "FNTBDS11TK10009",
+    "FNTBDS15WH10023",
+    "FNTBDS33CW35797",
+    "FNTBDS41WL30025",
+    "FNTBL01SO10050",
+    "FNTBL06NO10056",
+    "FNTBL11RA10049",
+    "FNTV01SW10052",
+    "FVBDBB33BR69193",
+    "FVBDST33OK52750",
+    "FVSGCB11BW51519",
+    "FVSGCB33BR67721",
+    "FVSGCB33WH72172",
+    "FVSGDR33BR70380",
+    "FVSTCH33OK52756",
+    "FVSTCH33OK52757",
+    "FVSTCH33OK52758",
+    "FVSTCH33OK52761",
+    "FVSTCH33OK52762",
+    "FVSTCH33OK52763",
+    "FVSTCH33OK52764",
+    "FVSTCH33OK52765",
+    "FVSTCH62BL33617",
+    "FVSTCH62GT33619",
+    "FVSTCH62LP33615",
+    "FVSTCH62PK33616",
+    "FVTBST33BL51650",
+    "FVTBST33BL51704",
+    "FVTBST33BL51710",
+    "FVTBST33GY52779",
+    "FVTBST33OK52777",
+    "FVTBST33PI51622",
+    "FVTBST33PI51646",
+    "FVTBST33PI51712",
+    "FVTBST33PU51603",
+    "FVTBST33PU51718",
+    "FVTBST33YE51623",
+    "FVTBST33YE51700",
+    "GRAVITY-HYBRID-EURO-TOP-5-ZONED-ZERO-PARTNER-DISTURBANCE-7-LAYERED-FOAM-POCKET-SPRING-MATTRESS-8134267",
+    "ORTHO-POCKET-SPRING-MATTRESS-8133544",
+    "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140132",
+    "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140423",
+    "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8133485",
+    "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134021",
+    "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134280",
+    "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134790",
+    "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8135270",
+    "SIMPLYWUD-BASIC-COIR-MATTRESS-KING-8115871-9420564",
+    "SIMPLYWUD-BASIC-COIR-MATTRESS-QUEEN-8115874-9420569",
+    "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-KING-8115872-9420563",
+    "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-QUEEN-8115873-9420566",
+    "SIMPLYWUD-ESSENTIAL-MATTRESS-QUEEN-COLOUR-WHITE-GREY-8148071-9420561",
+    "SIMPLYWUD-ESSENTIAL-MATTRESS-SINGLE-COLOUR-WHITE-GREY-8148070-9420568",
+    "THERAMEDIC-COIR-FOAM-KING-SIZE-MATTRESS-7554614",
+    "THERAMEDIC-COIR-FOAM-QUEEN-SIZE-MATTRESS-7554626",
+    "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554609",
+    "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554616",
+    "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554600",
+    "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554610",
+    "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554627",
+    "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554621",
+    "sp-001",
+    "sp-002",
+    "sp-003",
+    "sp-004",
+    "sp-005",
+    "sp-006",
+    "sp-007",
+    "ul-acmrrc11tk10024",
+    "ul-aer-latex-king-size-mattress-7554623",
+    "ul-aer-latex-queen-size-mattress-7554602",
+    "ul-aer-latex-queen-size-mattress-7554625",
+    "ul-aeroflex-3seater-manual-recliner",
+    "ul-alden-extendable-4-to-6-seater-dining-table",
+    "ul-apex-compact-writing-desk-with-hutch",
+    "ul-back-support-orthosense-cocopedic-tech-queen-size-mattress-8370650",
+    "ul-bali-hanging-egg-swing-chair",
+    "ul-bond-study-table-walnut",
+    "ul-calypso-1seater-motorized-recliner",
+    "ul-cambridge-solid-wood-executive-study-desk",
+    "ul-cask-solid-wood-compact-bar-cabinet",
+    "ul-cloud-eurotop-pocket-spring-king-size-mattress-with-latex-7554596",
+    "ul-cloud-eurotop-pocket-spring-queen-size-mattress-with-latex-7554615",
+    "ul-cloud-pocket-spring-king-size-mattress-7554593",
+    "ul-cloud-pocket-spring-king-size-mattress-with-hd-foam-7554607",
+    "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554608",
+    "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554612",
+    "ul-cloud-pocket-spring-queen-size-mattress-7554618",
+    "ul-cloud-pocket-spring-queen-size-mattress-with-hd-foam-7554601",
+    "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554611",
+    "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554622",
+    "ul-dreamlite-bonnel-spring-king-size-mattress-7554604",
+    "ul-dreamlite-bonnel-spring-king-size-mattress-7554606",
+    "ul-dreamlite-bonnel-spring-king-size-mattress-with-eurotop-7554620",
+    "ul-dreamlite-bonnel-spring-queen-size-mattress-7554599",
+    "ul-dreamlite-bonnel-spring-queen-size-mattress-7554613",
+    "ul-dreamlite-bonnel-spring-queen-size-mattress-with-eurotop-7554603",
+    "ul-ergomax-high-back-mesh-task-chair",
+    "ul-essential-memory-foam-queen-size-mattress-7554598",
+    "ul-fnbdns12ck36385",
+    "ul-fnbdns12cq36385",
+    "ul-fnbdns15dw11037",
+    "ul-fnbdns43dw35090",
+    "ul-fnbdst11ak16423",
+    "ul-fnbdst11tk16474",
+    "ul-fnbdst11tk36093",
+    "ul-fnbdst12dq16437",
+    "ul-fnbdst12kd36664",
+    "ul-fnbdst12mq16476",
+    "ul-fnbdst12sq16417",
+    "ul-fnbdst33bk36383",
+    "ul-fnbdst33cw35587",
+    "ul-fnbdst33cw35588",
+    "ul-fnbdst33dk36381",
+    "ul-fnbdst33dk36638",
+    "ul-fnbdst33dq36381",
+    "ul-fnbdst33rb36141",
+    "ul-fnbdst33sq36384",
+    "ul-fnbdst33tq36638",
+    "ul-fnbdst43dw35094",
+    "ul-fnbdst43fw31002",
+    "ul-fnbdst43lw31003",
+    "ul-fnbdst43wa35175",
+    "ul-fnbdst43wa35176",
+    "ul-fnbdst62ho36225",
+    "ul-fnbstb12aw16508",
+    "ul-fnbstb12aw36590",
+    "ul-fnbstb12aw38033",
+    "ul-fncb3d33be36274",
+    "ul-fncomb33be38279",
+    "ul-fncomb33be38281",
+    "ul-fncomb33bl38287",
+    "ul-fncomb33br38289",
+    "ul-fncomb33og38283",
+    "ul-fncomb33og38285",
+    "ul-fnnsbd12qa37972",
+    "ul-fnnsbd18et37889",
+    "ul-fnsfbd62bb36094",
+    "ul-fnsfsc26go35118",
+    "ul-fnsfsc33st37812",
+    "ul-fnsfsc62mn10001",
+    "ul-fnsgcb11mh10012",
+    "ul-fnsgcb11tk16350",
+    "ul-fnsgcb12aw37779",
+    "ul-fnsgcb12dc37779",
+    "ul-fnsgcb12mh16309",
+    "ul-fnsgcb12rc36391",
+    "ul-fnsgcb333d36337",
+    "ul-fnsgcb333w16519",
+    "ul-fnsgcb33br36235",
+    "ul-fnsgcb33ca30003",
+    "ul-fnsgcb33ca30012",
+    "ul-fnsgcb33cw36048",
+    "ul-fnsgcb33dw35584",
+    "ul-fnsgcb33dw35585",
+    "ul-fnsgcb33oa36163",
+    "ul-fnsgcb41dw30068",
+    "ul-fnsgcb43cw35097",
+    "ul-fnsgcb43cw35099",
+    "ul-fnsgcb43cw35100",
+    "ul-fnsgcb43dw35100",
+    "ul-fnsgcdf12am16330",
+    "ul-fnsgdr11tk16166",
+    "ul-fnsgdr12aw16467",
+    "ul-fnsgdr12aw16542",
+    "ul-fnsgdr12dw16408",
+    "ul-fnsgdr12dw16492",
+    "ul-fnsgdr33be36195",
+    "ul-fnsgdr33cw35799",
+    "ul-fnsgdr33dw35583",
+    "ul-fnsgdr41dw30127",
+    "ul-fnsgdr41wl30095",
+    "ul-fnsgdr62nw16054",
+    "ul-fnsgdt62wa36249",
+    "ul-fnsgf11tk36328",
+    "ul-fnstbd12ak16539",
+    "ul-fnstbd33be36636",
+    "ul-fnstbd33kg16517",
+    "ul-fnstbd33qb16487",
+    "ul-fnstbd33qm16518",
+    "ul-fntbbs11tk10042",
+    "ul-fntbbs11tk15064",
+    "ul-fntbbs12dw16406",
+    "ul-fntbbs12rc36386",
+    "ul-fntbbs33br36376",
+    "ul-fntbbs33cw35796",
+    "ul-fntbbs41wl30048",
+    "ul-fntbbs43cw35091",
+    "ul-fntbbt11tk16324",
+    "ul-fntbdm11tk16333",
+    "ul-fntbdm12dw16407",
+    "ul-fntbds11mh16348",
+    "ul-fntbds11tk10009",
+    "ul-fntbds15wh10023",
+    "ul-fntbds33cw35797",
+    "ul-fntbds41wl30025",
+    "ul-fvbdbb33br69180",
+    "ul-fvbdbb33br69187",
+    "ul-fvbdbb33br69193",
+    "ul-fvbdbb33br69194",
+    "ul-fvbdbb33wh69192",
+    "ul-fvbdbb33wh70281",
+    "ul-fvbdst33br72232",
+    "ul-fvbdst33ob20714",
+    "ul-fvbdst33ok52750",
+    "ul-fvbdst33or20699",
+    "ul-fvbdst33pr20727",
+    "ul-fvbdst33tq20673",
+    "ul-fvbdst33yl20665",
+    "ul-fvnsbd33cw50886",
+    "ul-fvsgcb11bw51519",
+    "ul-fvsgcb33br67721",
+    "ul-fvsgcb33wh72172",
+    "ul-fvsgdr33br70380",
+    "ul-fvstbd33ob51122",
+    "ul-fvstch33ok52756",
+    "ul-fvstch33ok52757",
+    "ul-fvstch33ok52758",
+    "ul-fvstch33ok52761",
+    "ul-fvstch33ok52762",
+    "ul-fvstch33ok52763",
+    "ul-fvstch33ok52764",
+    "ul-fvstch33ok52765",
+    "ul-fvstch62bl33617",
+    "ul-fvstch62gt33619",
+    "ul-fvstch62lp33615",
+    "ul-fvstch62pk33616",
+    "ul-fvtbst33bl51650",
+    "ul-fvtbst33bl51704",
+    "ul-fvtbst33bl51710",
+    "ul-fvtbst33gy52779",
+    "ul-fvtbst33ok52777",
+    "ul-fvtbst33pi51622",
+    "ul-fvtbst33pi51646",
+    "ul-fvtbst33pi51712",
+    "ul-fvtbst33pu51603",
+    "ul-fvtbst33pu51718",
+    "ul-fvtbst33ye51623",
+    "ul-fvtbst33ye51700",
+    "ul-gravity-hybrid-euro-top-5-zoned-zero-partner-disturbance-7-layered-foam-pocket-spring-mattress-8134267",
+    "ul-harbor-swivel-cushioned-counter-stool",
+    "ul-haven-tufted-ottoman-bench",
+    "ul-karan-solid-wood-diwan-trundle",
+    "ul-koto-solid-wood-lounge-chair",
+    "ul-kyoto-solid-mango-wood-coffee-table",
+    "ul-luna-3seater-slate-grey",
+    "ul-matrix-executive-high-back-leather-chair",
+    "ul-modena-multipurpose-kitchen-sideboard",
+    "ul-monaco-3seater-fabric-sofa",
+    "ul-ortho-pocket-spring-mattress-8133544",
+    "ul-oslo-contemporary-wall-mounted-tv-unit",
+    "ul-palermo-3seater-click-clack-sofa-cum-bed",
+    "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140132",
+    "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140423",
+    "ul-regent-executive-office-desk-suite",
+    "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8133485",
+    "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134021",
+    "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134280",
+    "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134790",
+    "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8135270",
+    "ul-rio-2-seater-balcony-bistro-set",
+    "ul-sienna-solid-wood-crockery-cabinet",
+    "ul-simplywud-basic-coir-mattress-king-8115871-9420564",
+    "ul-simplywud-basic-coir-mattress-queen-8115874-9420569",
+    "ul-simplywud-classic-foam-mattress-king-8115872-9420563",
+    "ul-simplywud-classic-foam-mattress-queen-8115873-9420566",
+    "ul-simplywud-essential-mattress-queen-colour-white-grey-8148071-9420561",
+    "ul-simplywud-essential-mattress-single-colour-white-grey-8148070-9420568",
+    "ul-solano-l-shaped-wooden-sofa",
+    "ul-sophia-bedsheet-single",
+    "ul-stanhope-king-shitake-beige",
+    "ul-stanhope-king-urban-grey",
+    "ul-stride-mid-back-revolving-study-chair",
+    "ul-theramedic-coir-foam-king-size-mattress-7554614",
+    "ul-theramedic-coir-foam-queen-size-mattress-7554626",
+    "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554609",
+    "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554616",
+    "ul-theramedic-memory-foam-king-size-mattress-with-temperature-control-7554600",
+    "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554610",
+    "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554627",
+    "ul-theramedic-memory-foam-queen-size-mattress-with-temperature-control-7554621",
+    "ul-torin-tv-cabinet-golden-ash",
+    "ul-valencia-6-seater-solid-wood-dining-set",
+    "ul-vesta-slatted-shoe-rack-cabinet",
+    "ul-zara-c-shaped-side-table"
+  ],
+  "indexed_records": [
+    {
+      "id": "sp-001",
+      "sku": null,
+      "source": "cc/output/generated/sp-001.json"
+    },
+    {
+      "id": "sp-002",
+      "sku": null,
+      "source": "cc/output/generated/sp-002.json"
+    },
+    {
+      "id": "sp-003",
+      "sku": null,
+      "source": "cc/output/generated/sp-003.json"
+    },
+    {
+      "id": "sp-004",
+      "sku": null,
+      "source": "cc/output/generated/sp-004.json"
+    },
+    {
+      "id": "sp-005",
+      "sku": null,
+      "source": "cc/output/generated/sp-005.json"
+    },
+    {
+      "id": "sp-006",
+      "sku": null,
+      "source": "cc/output/generated/sp-006.json"
+    },
+    {
+      "id": "sp-007",
+      "sku": null,
+      "source": "cc/output/generated/sp-007.json"
+    },
+    {
+      "id": "ul-bond-study-table-walnut",
+      "sku": null,
+      "source": "cc/output/generated/ul-bond-study-table-walnut.json"
+    },
+    {
+      "id": "ul-luna-3seater-slate-grey",
+      "sku": null,
+      "source": "cc/output/generated/ul-luna-3seater-slate-grey.json"
+    },
+    {
+      "id": "ul-sophia-bedsheet-single",
+      "sku": null,
+      "source": "cc/output/generated/ul-sophia-bedsheet-single.json"
+    },
+    {
+      "id": "ul-stanhope-king-shitake-beige",
+      "sku": null,
+      "source": "cc/output/generated/ul-stanhope-king-shitake-beige.json"
+    },
+    {
+      "id": "ul-stanhope-king-urban-grey",
+      "sku": null,
+      "source": "cc/output/generated/ul-stanhope-king-urban-grey.json"
+    },
+    {
+      "id": "ul-torin-tv-cabinet-golden-ash",
+      "sku": null,
+      "source": "cc/output/generated/ul-torin-tv-cabinet-golden-ash.json"
+    },
+    {
+      "id": "ul-fntbds11mh16348",
+      "sku": "FNTBDS11MH16348",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDS11MH16348",
+      "sku": "FNTBDS11MH16348",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdt62wa36249",
+      "sku": "FNSGDT62WA36249",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDT62WA36249",
+      "sku": "FNSGDT62WA36249",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr11tk16166",
+      "sku": "FNSGDR11TK16166",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR11TK16166",
+      "sku": "FNSGDR11TK16166",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbds11tk10009",
+      "sku": "FNTBDS11TK10009",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDS11TK10009",
+      "sku": "FNTBDS11TK10009",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-acmrrc11tk10024",
+      "sku": "ACMRRC11TK10024",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ACMRRC11TK10024",
+      "sku": "ACMRRC11TK10024",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr33be36195",
+      "sku": "FNSGDR33BE36195",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR33BE36195",
+      "sku": "FNSGDR33BE36195",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbds33cw35797",
+      "sku": "FNTBDS33CW35797",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDS33CW35797",
+      "sku": "FNTBDS33CW35797",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbds41wl30025",
+      "sku": "FNTBDS41WL30025",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDS41WL30025",
+      "sku": "FNTBDS41WL30025",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbdm11tk16333",
+      "sku": "FNTBDM11TK16333",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDM11TK16333",
+      "sku": "FNTBDM11TK16333",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbdm12dw16407",
+      "sku": "FNTBDM12DW16407",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDM12DW16407",
+      "sku": "FNTBDM12DW16407",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbds15wh10023",
+      "sku": "FNTBDS15WH10023",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBDS15WH10023",
+      "sku": "FNTBDS15WH10023",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbstb12aw38033",
+      "sku": "FNBSTB12AW38033",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNBSTB12AW38033",
+      "sku": "FNBSTB12AW38033",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs12dw16406",
+      "sku": "FNTBBS12DW16406",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS12DW16406",
+      "sku": "FNTBBS12DW16406",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbstb12aw16508",
+      "sku": "FNBSTB12AW16508",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNBSTB12AW16508",
+      "sku": "FNBSTB12AW16508",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs33cw35796",
+      "sku": "FNTBBS33CW35796",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS33CW35796",
+      "sku": "FNTBBS33CW35796",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs12rc36386",
+      "sku": "FNTBBS12RC36386",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS12RC36386",
+      "sku": "FNTBBS12RC36386",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbstb12aw36590",
+      "sku": "FNBSTB12AW36590",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNBSTB12AW36590",
+      "sku": "FNBSTB12AW36590",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbt11tk16324",
+      "sku": "FNTBBT11TK16324",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBT11TK16324",
+      "sku": "FNTBBT11TK16324",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs11tk15064",
+      "sku": "FNTBBS11TK15064",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS11TK15064",
+      "sku": "FNTBBS11TK15064",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs33br36376",
+      "sku": "FNTBBS33BR36376",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS33BR36376",
+      "sku": "FNTBBS33BR36376",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs43cw35091",
+      "sku": "FNTBBS43CW35091",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS43CW35091",
+      "sku": "FNTBBS43CW35091",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs41wl30048",
+      "sku": "FNTBBS41WL30048",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS41WL30048",
+      "sku": "FNTBBS41WL30048",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fntbbs11tk10042",
+      "sku": "FNTBBS11TK10042",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNTBBS11TK10042",
+      "sku": "FNTBBS11TK10042",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgf11tk36328",
+      "sku": "FNSGF11TK36328",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGF11TK36328",
+      "sku": "FNSGF11TK36328",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr12dw16408",
+      "sku": "FNSGDR12DW16408",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR12DW16408",
+      "sku": "FNSGDR12DW16408",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr41wl30095",
+      "sku": "FNSGDR41WL30095",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR41WL30095",
+      "sku": "FNSGDR41WL30095",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr41dw30127",
+      "sku": "FNSGDR41DW30127",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR41DW30127",
+      "sku": "FNSGDR41DW30127",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr33cw35799",
+      "sku": "FNSGDR33CW35799",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR33CW35799",
+      "sku": "FNSGDR33CW35799",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcdf12am16330",
+      "sku": "FNSGCDF12AM16330",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCDF12AM16330",
+      "sku": "FNSGCDF12AM16330",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr33dw35583",
+      "sku": "FNSGDR33DW35583",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR33DW35583",
+      "sku": "FNSGDR33DW35583",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr12aw16467",
+      "sku": "FNSGDR12AW16467",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR12AW16467",
+      "sku": "FNSGDR12AW16467",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvsgdr33br70380",
+      "sku": "FVSGDR33BR70380",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSGDR33BR70380",
+      "sku": "FVSGDR33BR70380",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr62nw16054",
+      "sku": "FNSGDR62NW16054",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR62NW16054",
+      "sku": "FNSGDR62NW16054",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr12dw16492",
+      "sku": "FNSGDR12DW16492",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR12DW16492",
+      "sku": "FNSGDR12DW16492",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgdr12aw16542",
+      "sku": "FNSGDR12AW16542",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGDR12AW16542",
+      "sku": "FNSGDR12AW16542",
+      "source": "cc/data/trainingSet/bedroom_storage_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst12sq16417",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst43wa35175",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst12dq16437",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33tq36638",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdns12cq36385",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst62ho36225",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33cw35588",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst43fw31002",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33sq36384",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnnsbd12qa37972",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst11tk36093",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnnsbd18et37889",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst12kd36664",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33bk36383",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnstbd12ak16539",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33dk36638",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdns12ck36385",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst11ak16423",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33cw35587",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst43wa35176",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst11tk16474",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnstbd33kg16517",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst43lw31003",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdns15dw11037",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvnsbd33cw50886",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33br72232",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdns43dw35090",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnstbd33qm16518",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33dq36381",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnstbd33be36636",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnstbd33qb16487",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst12mq16476",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33dk36381",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33wh69192",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33pr20727",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33br69187",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33br69180",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstbd33ob51122",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33or20699",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33ob20714",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33wh70281",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33tq20673",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33yl20665",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33br69194",
+      "sku": null,
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst33rb36141",
+      "sku": "FNBDST33RB36141",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNBDST33RB36141",
+      "sku": "FNBDST33RB36141",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnbdst43dw35094",
+      "sku": "FNBDST43DW35094",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNBDST43DW35094",
+      "sku": "FNBDST43DW35094",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsfbd62bb36094",
+      "sku": "FNSFBD62BB36094",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSFBD62BB36094",
+      "sku": "FNSFBD62BB36094",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsfsc26go35118",
+      "sku": "FNSFSC26GO35118",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSFSC26GO35118",
+      "sku": "FNSFSC26GO35118",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsfsc33st37812",
+      "sku": "FNSFSC33ST37812",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSFSC33ST37812",
+      "sku": "FNSFSC33ST37812",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsfsc62mn10001",
+      "sku": "FNSFSC62MN10001",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSFSC62MN10001",
+      "sku": "FNSFSC62MN10001",
+      "source": "cc/data/trainingSet/beds_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdbb33br69193",
+      "sku": "FVBDBB33BR69193",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVBDBB33BR69193",
+      "sku": "FVBDBB33BR69193",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvbdst33ok52750",
+      "sku": "FVBDST33OK52750",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVBDST33OK52750",
+      "sku": "FVBDST33OK52750",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33bl51704",
+      "sku": "FVTBST33BL51704",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33BL51704",
+      "sku": "FVTBST33BL51704",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33gy52779",
+      "sku": "FVTBST33GY52779",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33GY52779",
+      "sku": "FVTBST33GY52779",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33bl51650",
+      "sku": "FVTBST33BL51650",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33BL51650",
+      "sku": "FVTBST33BL51650",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33pi51646",
+      "sku": "FVTBST33PI51646",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33PI51646",
+      "sku": "FVTBST33PI51646",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33bl51710",
+      "sku": "FVTBST33BL51710",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33BL51710",
+      "sku": "FVTBST33BL51710",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33pi51622",
+      "sku": "FVTBST33PI51622",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33PI51622",
+      "sku": "FVTBST33PI51622",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33ye51700",
+      "sku": "FVTBST33YE51700",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33YE51700",
+      "sku": "FVTBST33YE51700",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33ye51623",
+      "sku": "FVTBST33YE51623",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33YE51623",
+      "sku": "FVTBST33YE51623",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33pi51712",
+      "sku": "FVTBST33PI51712",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33PI51712",
+      "sku": "FVTBST33PI51712",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33pu51718",
+      "sku": "FVTBST33PU51718",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33PU51718",
+      "sku": "FVTBST33PU51718",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33pu51603",
+      "sku": "FVTBST33PU51603",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33PU51603",
+      "sku": "FVTBST33PU51603",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvtbst33ok52777",
+      "sku": "FVTBST33OK52777",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVTBST33OK52777",
+      "sku": "FVTBST33OK52777",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch62pk33616",
+      "sku": "FVSTCH62PK33616",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH62PK33616",
+      "sku": "FVSTCH62PK33616",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52758",
+      "sku": "FVSTCH33OK52758",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52758",
+      "sku": "FVSTCH33OK52758",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52763",
+      "sku": "FVSTCH33OK52763",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52763",
+      "sku": "FVSTCH33OK52763",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52762",
+      "sku": "FVSTCH33OK52762",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52762",
+      "sku": "FVSTCH33OK52762",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52761",
+      "sku": "FVSTCH33OK52761",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52761",
+      "sku": "FVSTCH33OK52761",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch62lp33615",
+      "sku": "FVSTCH62LP33615",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH62LP33615",
+      "sku": "FVSTCH62LP33615",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52756",
+      "sku": "FVSTCH33OK52756",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52756",
+      "sku": "FVSTCH33OK52756",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52764",
+      "sku": "FVSTCH33OK52764",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52764",
+      "sku": "FVSTCH33OK52764",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch62gt33619",
+      "sku": "FVSTCH62GT33619",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH62GT33619",
+      "sku": "FVSTCH62GT33619",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52765",
+      "sku": "FVSTCH33OK52765",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52765",
+      "sku": "FVSTCH33OK52765",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch33ok52757",
+      "sku": "FVSTCH33OK52757",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH33OK52757",
+      "sku": "FVSTCH33OK52757",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvstch62bl33617",
+      "sku": "FVSTCH62BL33617",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSTCH62BL33617",
+      "sku": "FVSTCH62BL33617",
+      "source": "cc/data/trainingSet/kids_room_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554609",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554609",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554609",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554609",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554622",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554622",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554622",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554622",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-essential-memory-foam-queen-size-mattress-7554598",
+      "sku": "ESSENTIAL-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-7554598",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ESSENTIAL-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-7554598",
+      "sku": "ESSENTIAL-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-7554598",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-with-eurotop-7554603",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-WITH-EUROTOP-7554603",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-WITH-EUROTOP-7554603",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-WITH-EUROTOP-7554603",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-essential-mattress-queen-colour-white-grey-8148071-9420561",
+      "sku": "SIMPLYWUD-ESSENTIAL-MATTRESS-QUEEN-COLOUR-WHITE-GREY-8148071-9420561",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-ESSENTIAL-MATTRESS-QUEEN-COLOUR-WHITE-GREY-8148071-9420561",
+      "sku": "SIMPLYWUD-ESSENTIAL-MATTRESS-QUEEN-COLOUR-WHITE-GREY-8148071-9420561",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-classic-foam-mattress-queen-8115873-9420566",
+      "sku": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-QUEEN-8115873-9420566",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-QUEEN-8115873-9420566",
+      "sku": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-QUEEN-8115873-9420566",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-basic-coir-mattress-queen-8115874-9420569",
+      "sku": "SIMPLYWUD-BASIC-COIR-MATTRESS-QUEEN-8115874-9420569",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-BASIC-COIR-MATTRESS-QUEEN-8115874-9420569",
+      "sku": "SIMPLYWUD-BASIC-COIR-MATTRESS-QUEEN-8115874-9420569",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-coir-foam-queen-size-mattress-7554626",
+      "sku": "THERAMEDIC-COIR-FOAM-QUEEN-SIZE-MATTRESS-7554626",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-COIR-FOAM-QUEEN-SIZE-MATTRESS-7554626",
+      "sku": "THERAMEDIC-COIR-FOAM-QUEEN-SIZE-MATTRESS-7554626",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554612",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554612",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554612",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554612",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-aer-latex-queen-size-mattress-7554602",
+      "sku": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554602",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554602",
+      "sku": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554602",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-7554599",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554599",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554599",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554599",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-essential-mattress-single-colour-white-grey-8148070-9420568",
+      "sku": "SIMPLYWUD-ESSENTIAL-MATTRESS-SINGLE-COLOUR-WHITE-GREY-8148070-9420568",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-ESSENTIAL-MATTRESS-SINGLE-COLOUR-WHITE-GREY-8148070-9420568",
+      "sku": "SIMPLYWUD-ESSENTIAL-MATTRESS-SINGLE-COLOUR-WHITE-GREY-8148070-9420568",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-basic-coir-mattress-king-8115871-9420564",
+      "sku": "SIMPLYWUD-BASIC-COIR-MATTRESS-KING-8115871-9420564",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-BASIC-COIR-MATTRESS-KING-8115871-9420564",
+      "sku": "SIMPLYWUD-BASIC-COIR-MATTRESS-KING-8115871-9420564",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-coir-foam-king-size-mattress-7554614",
+      "sku": "THERAMEDIC-COIR-FOAM-KING-SIZE-MATTRESS-7554614",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-COIR-FOAM-KING-SIZE-MATTRESS-7554614",
+      "sku": "THERAMEDIC-COIR-FOAM-KING-SIZE-MATTRESS-7554614",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-eurotop-pocket-spring-king-size-mattress-with-latex-7554596",
+      "sku": "CLOUD-EUROTOP-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-LATEX-7554596",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-EUROTOP-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-LATEX-7554596",
+      "sku": "CLOUD-EUROTOP-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-LATEX-7554596",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-aer-latex-king-size-mattress-7554623",
+      "sku": "AER-LATEX-KING-SIZE-MATTRESS-7554623",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "AER-LATEX-KING-SIZE-MATTRESS-7554623",
+      "sku": "AER-LATEX-KING-SIZE-MATTRESS-7554623",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-with-eurotop-7554620",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-WITH-EUROTOP-7554620",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-WITH-EUROTOP-7554620",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-WITH-EUROTOP-7554620",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-simplywud-classic-foam-mattress-king-8115872-9420563",
+      "sku": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-KING-8115872-9420563",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-KING-8115872-9420563",
+      "sku": "SIMPLYWUD-CLASSIC-FOAM-MATTRESS-KING-8115872-9420563",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-latex-7554616",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554616",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554616",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-LATEX-7554616",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554608",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554608",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554608",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554608",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-7554604",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554604",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554604",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554604",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-king-size-mattress-7554606",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554606",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554606",
+      "sku": "DREAMLITE-BONNEL-SPRING-KING-SIZE-MATTRESS-7554606",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554627",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554627",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554627",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554627",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-eurotop-pocket-spring-queen-size-mattress-with-latex-7554615",
+      "sku": "CLOUD-EUROTOP-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554615",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-EUROTOP-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554615",
+      "sku": "CLOUD-EUROTOP-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554615",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-aer-latex-queen-size-mattress-7554625",
+      "sku": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554625",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554625",
+      "sku": "AER-LATEX-QUEEN-SIZE-MATTRESS-7554625",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-temperature-control-7554621",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554621",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554621",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554621",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-king-size-mattress-with-temperature-control-7554600",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554600",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554600",
+      "sku": "THERAMEDIC-MEMORY-FOAM-KING-SIZE-MATTRESS-WITH-TEMPERATURE-CONTROL-7554600",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-memory-foam-eurotop-7554611",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554611",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554611",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-MEMORY-FOAM-EUROTOP-7554611",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134280",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134280",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134280",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134280",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8133485",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8133485",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8133485",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8133485",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134790",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134790",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134790",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134790",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8134021",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134021",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134021",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8134021",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-revitalize-cool-gel-5-zone-hr-memory-foam-mattress-8135270",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8135270",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8135270",
+      "sku": "REVITALIZE-COOL-GEL-5-ZONE-HR-MEMORY-FOAM-MATTRESS-8135270",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-theramedic-memory-foam-queen-size-mattress-with-latex-7554610",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554610",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554610",
+      "sku": "THERAMEDIC-MEMORY-FOAM-QUEEN-SIZE-MATTRESS-WITH-LATEX-7554610",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-ortho-pocket-spring-mattress-8133544",
+      "sku": "ORTHO-POCKET-SPRING-MATTRESS-8133544",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ORTHO-POCKET-SPRING-MATTRESS-8133544",
+      "sku": "ORTHO-POCKET-SPRING-MATTRESS-8133544",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140423",
+      "sku": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140423",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140423",
+      "sku": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140423",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-pure-sleep-premium-orthopedic-pocket-spring-mattress-8140132",
+      "sku": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140132",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140132",
+      "sku": "PURE-SLEEP-PREMIUM-ORTHOPEDIC-POCKET-SPRING-MATTRESS-8140132",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-back-support-orthosense-cocopedic-tech-queen-size-mattress-8370650",
+      "sku": "BACK-SUPPORT-ORTHOSENSE-COCOPEDIC-TECH-QUEEN-SIZE-MATTRESS-8370650",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "BACK-SUPPORT-ORTHOSENSE-COCOPEDIC-TECH-QUEEN-SIZE-MATTRESS-8370650",
+      "sku": "BACK-SUPPORT-ORTHOSENSE-COCOPEDIC-TECH-QUEEN-SIZE-MATTRESS-8370650",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-dreamlite-bonnel-spring-queen-size-mattress-7554613",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554613",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554613",
+      "sku": "DREAMLITE-BONNEL-SPRING-QUEEN-SIZE-MATTRESS-7554613",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-with-hd-foam-7554601",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-HD-FOAM-7554601",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-HD-FOAM-7554601",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-WITH-HD-FOAM-7554601",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-with-hd-foam-7554607",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-HD-FOAM-7554607",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-HD-FOAM-7554607",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-WITH-HD-FOAM-7554607",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-queen-size-mattress-7554618",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-7554618",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-7554618",
+      "sku": "CLOUD-POCKET-SPRING-QUEEN-SIZE-MATTRESS-7554618",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-cloud-pocket-spring-king-size-mattress-7554593",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-7554593",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-7554593",
+      "sku": "CLOUD-POCKET-SPRING-KING-SIZE-MATTRESS-7554593",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-gravity-hybrid-euro-top-5-zoned-zero-partner-disturbance-7-layered-foam-pocket-spring-mattress-8134267",
+      "sku": "GRAVITY-HYBRID-EURO-TOP-5-ZONED-ZERO-PARTNER-DISTURBANCE-7-LAYERED-FOAM-POCKET-SPRING-MATTRESS-8134267",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "GRAVITY-HYBRID-EURO-TOP-5-ZONED-ZERO-PARTNER-DISTURBANCE-7-LAYERED-FOAM-POCKET-SPRING-MATTRESS-8134267",
+      "sku": "GRAVITY-HYBRID-EURO-TOP-5-ZONED-ZERO-PARTNER-DISTURBANCE-7-LAYERED-FOAM-POCKET-SPRING-MATTRESS-8134267",
+      "source": "cc/data/trainingSet/mattresses_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb43cw35100",
+      "sku": "FNSGCB43CW35100",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB43CW35100",
+      "sku": "FNSGCB43CW35100",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33oa36163",
+      "sku": "FNSGCB33OA36163",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33OA36163",
+      "sku": "FNSGCB33OA36163",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33br36235",
+      "sku": "FNSGCB33BR36235",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33BR36235",
+      "sku": "FNSGCB33BR36235",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33dw35585",
+      "sku": "FNSGCB33DW35585",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33DW35585",
+      "sku": "FNSGCB33DW35585",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb333d36337",
+      "sku": "FNSGCB333D36337",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB333D36337",
+      "sku": "FNSGCB333D36337",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb11mh10012",
+      "sku": "FNSGCB11MH10012",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB11MH10012",
+      "sku": "FNSGCB11MH10012",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb11tk16350",
+      "sku": "FNSGCB11TK16350",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB11TK16350",
+      "sku": "FNSGCB11TK16350",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33cw36048",
+      "sku": "FNSGCB33CW36048",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33CW36048",
+      "sku": "FNSGCB33CW36048",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb12rc36391",
+      "sku": "FNSGCB12RC36391",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB12RC36391",
+      "sku": "FNSGCB12RC36391",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncb3d33be36274",
+      "sku": "FNCB3D33BE36274",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCB3D33BE36274",
+      "sku": "FNCB3D33BE36274",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb43dw35100",
+      "sku": "FNSGCB43DW35100",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB43DW35100",
+      "sku": "FNSGCB43DW35100",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb12aw37779",
+      "sku": "FNSGCB12AW37779",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB12AW37779",
+      "sku": "FNSGCB12AW37779",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb41dw30068",
+      "sku": "FNSGCB41DW30068",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB41DW30068",
+      "sku": "FNSGCB41DW30068",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb12mh16309",
+      "sku": "FNSGCB12MH16309",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB12MH16309",
+      "sku": "FNSGCB12MH16309",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb12dc37779",
+      "sku": "FNSGCB12DC37779",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB12DC37779",
+      "sku": "FNSGCB12DC37779",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb43cw35097",
+      "sku": "FNSGCB43CW35097",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB43CW35097",
+      "sku": "FNSGCB43CW35097",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33dw35584",
+      "sku": "FNSGCB33DW35584",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33DW35584",
+      "sku": "FNSGCB33DW35584",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb43cw35099",
+      "sku": "FNSGCB43CW35099",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB43CW35099",
+      "sku": "FNSGCB43CW35099",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33ca30003",
+      "sku": "FNSGCB33CA30003",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33CA30003",
+      "sku": "FNSGCB33CA30003",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb333w16519",
+      "sku": "FNSGCB333W16519",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB333W16519",
+      "sku": "FNSGCB333W16519",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fnsgcb33ca30012",
+      "sku": "FNSGCB33CA30012",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNSGCB33CA30012",
+      "sku": "FNSGCB33CA30012",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvsgcb33br67721",
+      "sku": "FVSGCB33BR67721",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSGCB33BR67721",
+      "sku": "FVSGCB33BR67721",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvsgcb11bw51519",
+      "sku": "FVSGCB11BW51519",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSGCB11BW51519",
+      "sku": "FVSGCB11BW51519",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fvsgcb33wh72172",
+      "sku": "FVSGCB33WH72172",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FVSGCB33WH72172",
+      "sku": "FVSGCB33WH72172",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33br38289",
+      "sku": "FNCOMB33BR38289",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33BR38289",
+      "sku": "FNCOMB33BR38289",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33be38279",
+      "sku": "FNCOMB33BE38279",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33BE38279",
+      "sku": "FNCOMB33BE38279",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33og38283",
+      "sku": "FNCOMB33OG38283",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33OG38283",
+      "sku": "FNCOMB33OG38283",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33be38281",
+      "sku": "FNCOMB33BE38281",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33BE38281",
+      "sku": "FNCOMB33BE38281",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33bl38287",
+      "sku": "FNCOMB33BL38287",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33BL38287",
+      "sku": "FNCOMB33BL38287",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-fncomb33og38285",
+      "sku": "FNCOMB33OG38285",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "FNCOMB33OG38285",
+      "sku": "FNCOMB33OG38285",
+      "source": "cc/data/trainingSet/wardrobes_generated.2026-09-15.bak.jsonl"
+    },
+    {
+      "id": "ul-monaco-3seater-fabric-sofa",
+      "sku": "FNSFST31IN10041",
+      "source": "data/trainingData/Sofa/SofaSets_generated_output.json"
+    },
+    {
+      "id": "ul-solano-l-shaped-wooden-sofa",
+      "sku": "FNSFST51HT10042",
+      "source": "data/trainingData/Sofa/SofaSets_generated_output.json"
+    },
+    {
+      "id": "ul-calypso-1seater-motorized-recliner",
+      "sku": "FNRC01SB10043",
+      "source": "data/trainingData/Sofa/ReclinerSofas_generated_output.json"
+    },
+    {
+      "id": "ul-aeroflex-3seater-manual-recliner",
+      "sku": "FNRC03CG10044",
+      "source": "data/trainingData/Sofa/ReclinerSofas_generated_output.json"
+    },
+    {
+      "id": "ul-palermo-3seater-click-clack-sofa-cum-bed",
+      "sku": "FNSBD31TG10045",
+      "source": "data/trainingData/Sofa/SofaBeds_generated_output.json"
+    },
+    {
+      "id": "ul-cambridge-solid-wood-executive-study-desk",
+      "sku": "FNSTD03HT10061",
+      "source": "data/trainingData/Study/StudyTables_generated_output.json"
+    },
+    {
+      "id": "ul-karan-solid-wood-diwan-trundle",
+      "sku": "FNDWN11WW10046",
+      "source": "data/trainingData/Sofa/SofaBeds_generated_output.json"
+    },
+    {
+      "id": "ul-koto-solid-wood-lounge-chair",
+      "sku": "FNCH01TK10047",
+      "source": "data/trainingData/Living/SeatingAndChairs_generated_output.json"
+    },
+    {
+      "id": "ul-haven-tufted-ottoman-bench",
+      "sku": "FNBN02OB10048",
+      "source": "data/trainingData/Living/SeatingAndChairs_generated_output.json"
+    },
+    {
+      "id": "ul-kyoto-solid-mango-wood-coffee-table",
+      "sku": "FNTBL11RA10049",
+      "source": "data/trainingData/Living/Tables_generated_output.json"
+    },
+    {
+      "id": "ul-zara-c-shaped-side-table",
+      "sku": "FNTBL01SO10050",
+      "source": "data/trainingData/Living/Tables_generated_output.json"
+    },
+    {
+      "id": "ul-vesta-slatted-shoe-rack-cabinet",
+      "sku": "FNSTR03PT10051",
+      "source": "data/trainingData/Living/LivingStorage_generated_output.json"
+    },
+    {
+      "id": "ul-oslo-contemporary-wall-mounted-tv-unit",
+      "sku": "FNTV01SW10052",
+      "source": "data/trainingData/Living/LivingStorage_generated_output.json"
+    },
+    {
+      "id": "ul-rio-2-seater-balcony-bistro-set",
+      "sku": "FNOUT02FG10053",
+      "source": "data/trainingData/Living/BalconyAndOutdoor_generated_output.json"
+    },
+    {
+      "id": "ul-bali-hanging-egg-swing-chair",
+      "sku": "FNOUT01EM10054",
+      "source": "data/trainingData/Living/BalconyAndOutdoor_generated_output.json"
+    },
+    {
+      "id": "ul-valencia-6-seater-solid-wood-dining-set",
+      "sku": "FNDST06HF10055",
+      "source": "data/trainingData/Dining/DiningTableSets_generated_output.json"
+    },
+    {
+      "id": "ul-alden-extendable-4-to-6-seater-dining-table",
+      "sku": "FNTBL06NO10056",
+      "source": "data/trainingData/Dining/DiningTableSets_generated_output.json"
+    },
+    {
+      "id": "ul-sienna-solid-wood-crockery-cabinet",
+      "sku": "FNKTC02CB10057",
+      "source": "data/trainingData/Dining/KitchenFurniture_generated_output.json"
+    },
+    {
+      "id": "ul-modena-multipurpose-kitchen-sideboard",
+      "sku": "FNKTC03WW10058",
+      "source": "data/trainingData/Dining/KitchenFurniture_generated_output.json"
+    },
+    {
+      "id": "ul-cask-solid-wood-compact-bar-cabinet",
+      "sku": "FNBAR01MF10059",
+      "source": "data/trainingData/Dining/BarFurniture_generated_output.json"
+    },
+    {
+      "id": "ul-harbor-swivel-cushioned-counter-stool",
+      "sku": "FNBAR02TL10060",
+      "source": "data/trainingData/Dining/BarFurniture_generated_output.json"
+    },
+    {
+      "id": "ul-apex-compact-writing-desk-with-hutch",
+      "sku": "FNSTD01WF10062",
+      "source": "data/trainingData/Study/StudyTables_generated_output.json"
+    },
+    {
+      "id": "ul-ergomax-high-back-mesh-task-chair",
+      "sku": "FNCHR01JB10063",
+      "source": "data/trainingData/Study/StudyChairs_generated_output.json"
+    },
+    {
+      "id": "ul-stride-mid-back-revolving-study-chair",
+      "sku": "FNCHR02CB10064",
+      "source": "data/trainingData/Study/StudyChairs_generated_output.json"
+    },
+    {
+      "id": "ul-regent-executive-office-desk-suite",
+      "sku": "FNOFF01DW10065",
+      "source": "data/trainingData/Study/OfficeFurnitures_generated_output.json"
+    },
+    {
+      "id": "ul-matrix-executive-high-back-leather-chair",
+      "sku": "FNOFF02EB10066",
+      "source": "data/trainingData/Study/OfficeFurnitures_generated_output.json"
+    }
+  ]
+}

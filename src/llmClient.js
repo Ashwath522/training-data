@@ -1,0 +1,132 @@
+/**
+ * Single Responsibility: Single entry point for all LLM calls (Gemini API or Mock), enforcing generation configs.
+ * Expected to be called from: src/generate.js, src/feedback.js, src/conversationSession.js
+ */
+require("dotenv").config({ quiet: true });
+// Single entrypoint for all LLM calls. Everything downstream (generate.js,
+// promptBuilder.js, feedback.js) calls generateContent()/generateText() and
+// never knows or cares whether MODE is "test" or "production" — same
+// function signature either way.
+
+const { LLM_GENERATED_SCHEMA_SUBSET } = require('./schema');
+const { LLM_RESPONSE_SCHEMA } = require('./schema');
+
+if (process.env.MODE === 'production') {
+  if (!process.env.LLM_API_KEY) {
+    throw new Error('Startup Error: LLM_API_KEY is not set. Add it to .env or environment.');
+  }
+  if (!process.env.LLM_MODEL) {
+    throw new Error('Startup Error: LLM_MODEL is not set. Expected a valid Gemini model.');
+  }
+  if (process.env.LLM_MODEL.includes('gemini-2.0-flash')) {
+    throw new Error('Startup Error: LLM_MODEL points to a retired model (gemini-2.0-flash). Please update to a newer model like gemini-3.1-flash-lite.');
+  }
+}
+
+async function callGemini({ systemPrompt, userPrompt, jsonMode, responseSchema }) {
+  const apiKey = process.env.LLM_API_KEY;
+  const baseUrl = process.env.LLM_BASE_URL || 'https://generativelanguage.googleapis.com/v1beta';
+  const model = process.env.LLM_MODEL || '3.1-flash-lite';
+
+  if (!apiKey) {
+    throw new Error(
+      'LLM_API_KEY is not set. Add your Gemini API key to .env (LLM_API_KEY=...) before running in production mode. ' +
+      'Get one at https://aistudio.google.com/apikey'
+    );
+  }
+
+  const url = `${baseUrl}/models/${model}:generateContent?key=${apiKey}`;
+
+  const contents = [
+    {
+      role: 'user',
+      parts: [{ text: userPrompt }]
+    }
+  ];
+
+  const body = {
+    contents,
+    generationConfig: {
+      temperature: 0.85,
+      thinkingConfig: { thinkingBudget: 0 },
+      ...(jsonMode ? { responseMimeType: 'application/json', responseSchema: LLM_RESPONSE_SCHEMA } : {})
+    }
+  };
+
+  if (systemPrompt) {
+    body.systemInstruction = { parts: [{ text: systemPrompt }] };
+  }
+
+  let response;
+  let retries = 0;
+  while (retries < 5) {
+    response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+
+    if (response.status === 429) {
+      retries++;
+      const waitTime = 5000 * retries;
+      console.warn(`[llmClient] Rate limit 429 encountered. Retrying in ${waitTime / 1000}s (attempt ${retries}/5)...`);
+      await new Promise(r => setTimeout(r, waitTime));
+      continue;
+    }
+    break;
+  }
+
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`Gemini API error (${response.status}): ${errText}`);
+  }
+
+  const data = await response.json();
+  const usage = data?.usageMetadata;
+  if (usage) {
+    console.error(
+      `[tokens] prompt=${usage.promptTokenCount} output=${usage.candidatesTokenCount} total=${usage.totalTokenCount}`
+    );
+  }
+  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+
+  if (!text) {
+    throw new Error(`Gemini API returned no content. Full response: ${JSON.stringify(data)}`);
+  }
+
+  if (!jsonMode) return text.trim();
+
+  const cleaned = text.replace(/```json|```/g, '').trim();
+  return JSON.parse(cleaned);
+}
+
+// Used for the main per-product generation call (description,
+// care_and_maintenance, warranty). Always expects JSON back.
+async function generateContent({ systemPrompt, userPrompt }) {
+  if (process.env.MODE === 'test') {
+    const { mockGenerateContent } = require('../test/mockLlmClient');
+    return mockGenerateContent({ systemPrompt, userPrompt });
+  }
+  if (process.env.DEBUG_PROMPT === '1') {
+    console.error("================ SYSTEM PROMPT ================\n" + systemPrompt);
+    console.error("================ USER PROMPT ================\n" + userPrompt);
+  }
+  return callGemini({
+    systemPrompt,
+    userPrompt,
+    jsonMode: true,
+    responseSchema: LLM_GENERATED_SCHEMA_SUBSET
+  });
+}
+
+// Used for the small, separate feedback-compression call in feedback.js.
+// Plain text in, plain text out — no schema.
+async function generateText({ prompt }) {
+  if (process.env.MODE === 'test') {
+    const { mockGenerateText } = require('../test/mockLlmClient');
+    return mockGenerateText({ prompt });
+  }
+  return callGemini({ systemPrompt: '', userPrompt: prompt, jsonMode: false });
+}
+
+module.exports = { generateContent, generateText };

@@ -1,0 +1,14 @@
+{
+  "emphasis_points": [
+    "Convey comfort and support through concrete firmness levels, internal layer composition (e.g., high-density foam, pocket springs, latex), and suitability for different sleep positions.",
+    "Highlight how material layers respond to body contouring, motion isolation, and airflow without relying on fixed mood adjectives.",
+    "Describe dimensional thickness and edge support in terms of practical mattress performance."
+  ],
+  "avoid_list": [
+    "Do not make medical or therapeutic health claims (e.g., 'cures back pain', 'aligns spine perfectly', 'eliminates insomnia').",
+    "Do not compare against unnamed competitor products or claim market superiority.",
+    "Do not invent layer thickness, coil count, or material types not explicitly stated in source data.",
+    "Do not open the mood line or intro directly with the raw material name 'pocket springs' as the first words of the sentence — the term itself is fine and often necessary later in the STORY section, but don't lead with it as a generic opener."
+  ],
+  "tone_notes": "Convey restfulness and ergonomic support through concrete material behavior and physical pressure distribution rather than naming an emotional feeling directly."
+}

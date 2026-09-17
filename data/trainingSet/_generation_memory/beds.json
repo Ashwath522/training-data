@@ -1,0 +1,891 @@
+{
+  "category": "Beds",
+  "items": [
+    {
+      "id": "ul-fnbdst12sq16417",
+      "name": "Hanoi Solid Wood Cane Queen Size Bed With Hydraulic Storage (Amber Walnut Finish, Shitake Beige Colour)",
+      "shortName": "Hanoi",
+      "summary": "An authentic amber walnut finish and generous queen size proportions establish a warm focal point in the master bedroom. The queen size sleeping platform accommodates standard mattress dimensions while preserving walking clearance along the perimeter. Constructed from solid mango wood, carefully the frame delivers steady platform assistance throughout daily family use. A structured headboard profile pairs with the base silhouette to anchor the bed against your master bedroom wall. Hanoi enriches the bedroom suite with authentic mango wood construction, amber walnut tones, and inviting domestic comfort.",
+      "opener": "An authentic amber walnut finish and generous queen size proportions establish a warm focal point in the master bedroom",
+      "closer": "Hanoi enriches the bedroom suite with authentic mango wood construction, amber walnut tones, and inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.825Z"
+    },
+    {
+      "id": "ul-fnbdst43wa35175",
+      "name": "Aruba Engineered Wood Queen Size Bed With Hydraulic Storage (Rustic Walnut Finish)",
+      "shortName": "Aruba",
+      "summary": "Built-in hydraulic storage and reliably warm rustic walnut tones give this queen size bed a functional presence in master suites. The internal compartment layout offers dedicated storage volume for seasonal bedding sets, pillows, and extra linens. Primary particle board construction ensures solid frame alignment, durable corner posts, and reliable deck support. Keeping bulky domestic textiles enclosed within the bed frame helps maintain an uncluttered sleeping environment. With balanced proportions and a rustic walnut finish, Aruba brings lasting warm living comfort to daily domestic living.",
+      "opener": "Built-in hydraulic storage and reliably warm rustic walnut tones give this queen size bed a functional presence in master suites",
+      "closer": "With balanced proportions and a rustic walnut finish, Aruba brings lasting warm living comfort to daily domestic living.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.825Z"
+    },
+    {
+      "id": "ul-fnbdst12dq16437",
+      "name": "Toledo Solid Wood Queen Size Bed With Hydraulic Storage (Danish Walnut Finish)",
+      "shortName": "Toledo",
+      "summary": "Clean architectural lines neatly and securely a securely rich danish walnut stain define this modern queen size bed designed for master suites. The streamlined platform base supports your mattress securely while preserving open floor visibility across the room. Built from authentic mango wood, the outer neatly chassis and base posts provide lasting structural strength. Preserving open floor space around the sleeping platform promotes reliably natural room circulation and an easy rhythm. Toledo coordinates with surrounding furniture through authentic mango wood framing, practical utility, and understated sophistication.",
+      "opener": "Clean architectural lines neatly and securely a securely rich danish walnut stain define this modern queen size bed designed for master suites",
+      "closer": "Toledo coordinates with surrounding furniture through authentic mango wood framing, practical utility, and understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.826Z"
+    },
+    {
+      "id": "ul-fnbdst33tq36638",
+      "name": "Milan Engineered Wood Queen Size Bed With Hydraulic Storage (Mocha Mousse Velvet Colour)",
+      "shortName": "Milan",
+      "summary": "A sleek contemporary frame in an authentic brown finish brings modern sophistication to your bedroom setup. A full-perimeter mattress deck aligns with standard bedding sizes, ensuring stable mattress placement during rest. Solid high density block board framing maintains steadfast platform integrity and balanced weight resistance under regular use. The clean platform perimeter creates a serene, grounded atmosphere that enhances overall master suite tranquility. Finished in brown, Milan completes your room arrangement with structured utility and modern refinement.",
+      "opener": "A sleek contemporary frame in an authentic brown finish brings modern sophistication to your bedroom setup",
+      "closer": "Finished in brown, Milan completes your room arrangement with structured utility and modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.828Z"
+    },
+    {
+      "id": "ul-fnbdns12cq36385",
+      "name": "Takai Solid Wood Queen Size Bed Without Storage (Red Cedar Finish)",
+      "shortName": "Takai",
+      "summary": "Rich red cedar tones and an expansive queen size footprint create a grounded centerpiece for the master bedroom. The broad sleeping surface gives couples and individuals generous resting area to unwind comfortably each evening. High-density mango wood panels form the perimeter structure, ensuring robust support for daily sleeping demands. An uncluttered sleeping zone supports peaceful evening unwinding and restful, undisturbed sleep throughout the night. Takai anchors the room with natural mango wood surfaces, understated lines, and authentic quality.",
+      "opener": "Rich red cedar tones and an expansive queen size footprint create a grounded centerpiece for the master bedroom",
+      "closer": "Takai anchors the room with natural mango wood surfaces, understated lines, and authentic quality.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.829Z"
+    },
+    {
+      "id": "ul-fnbdst62ho36225",
+      "name": "Cambry Queen Size Box Storage Bed With Headboard Storage In Honey Finish",
+      "shortName": "Cambry",
+      "summary": "Classic styling and a deep honey stain lend timeless elegance to this functional queen size sleeping platform. The elevated platform chassis allows convenient floor cleaning underneath while maintaining steady mattress support. Crafted from authentic sheesham wood, the bed delivers unwavering architectural balance and authentic character. Concealing extra bedding inside the bed frame maintains a pristine, disciplined aesthetic across the master suite. Designed for domestic routines, Cambry integrates honey aesthetics with dependable contemporary elegance.",
+      "opener": "Classic styling and a deep honey stain lend timeless elegance to this functional queen size sleeping platform",
+      "closer": "Designed for domestic routines, Cambry integrates honey aesthetics with dependable contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.831Z"
+    },
+    {
+      "id": "ul-fnbdst33cw35588",
+      "name": "Amy Engineered Wood Queen Size Bed With Box Storage (Classic Walnut Finish, Brown Colour)",
+      "shortName": "Amy",
+      "summary": "A low-profile silhouette and subtle classic walnut finish give this modern queen size bed an understated aesthetic. A low-slung frame design creates an open visual horizon across the bedroom, making the space feel expansive. Engineered with solid particle board, the platform resists warping while maintaining securely rock-solid joint connections. The balanced architectural profile creates an inviting, restful sanctuary tailored for nightly rejuvenation. Amy supports daily bedroom activities with genuine particle board materials, tidy organization, and graceful aesthetic balance.",
+      "opener": "A low-profile silhouette and subtle classic walnut finish give this modern queen size bed an understated aesthetic",
+      "closer": "Amy supports daily bedroom activities with genuine particle board materials, tidy organization, and graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.833Z"
+    },
+    {
+      "id": "ul-fnbdst43fw31002",
+      "name": "Scott Storage Bed Bed Size king Storage Type box Finish californian walnut",
+      "shortName": "Scott",
+      "summary": "Integrated non-storage and a refined californian walnut exterior make this queen size bed an organizer for master suites. Spacious internal compartments keep bulky winter quilts, spare pillows, and domestic linens organized and out of sight. The resilient plpb neatly chassis supports heavy mattresses and sleeper loads without structural frame flex. Preserving wide perimeter walkways around the bed ensures comfortable movement and an open, airy bedroom feel. The balanced profile of Scott pairs a californian walnut exterior with functional domestic contemporary elegance.",
+      "opener": "Integrated non-storage and a refined californian walnut exterior make this queen size bed an organizer for master suites",
+      "closer": "The balanced profile of Scott pairs a californian walnut exterior with functional domestic contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.835Z"
+    },
+    {
+      "id": "ul-fnbdst33sq36384",
+      "name": "Stanhope Engineered Wood Queen Size Bed With Hydraulic Storage (Brown Finish, Sienna Brown Colour)",
+      "shortName": "Stanhope",
+      "summary": "A handsome brown wood grain and structured headboard profile anchor your bedroom layout with distinction. The integrated headboard provides comfortable back support for evening reading, journaling, or relaxing before sleep. Built carefully from selected particle board, the unit offers reliable frame reliably rigidity and uniform deck alignment. The grounded silhouette establishes a peaceful focal anchor that complements contemporary master bedroom decor. Stanhope delivers reliable household service through authentic particle board panels, warm brown tones, and understated sophistication.",
+      "opener": "A handsome brown wood grain and structured headboard profile anchor your bedroom layout with distinction",
+      "closer": "Stanhope delivers reliable household service through authentic particle board panels, warm brown tones, and understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.836Z"
+    },
+    {
+      "id": "ul-fnnsbd12qa37972",
+      "name": "Sora Solid Wood Queen Size Bed Without Storage in Amber Walnut Finish",
+      "shortName": "Sora",
+      "summary": "carefully Distinctive securely geometric framing and an organic amber walnut finish give this queen size bed a commanding presence. A solid platform foundation supports the mattress evenly across all corners without requiring separate box springs. Robust mango wood components carefully ensure dependable corner joinery, stable leg bracing, and lasting performance. Eliminating visual clutter around the bed fosters a calm, relaxing environment for restful nighttime sleep. Built for everyday domestic life, Sora combines solid mango wood elements with amber walnut styling and minimal harmony.",
+      "opener": "carefully Distinctive securely geometric framing and an organic amber walnut finish give this queen size bed a commanding presence",
+      "closer": "Built for everyday domestic life, Sora combines solid mango wood elements with amber walnut styling and minimal harmony.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.838Z"
+    },
+    {
+      "id": "ul-fnbdst11tk36093",
+      "name": "Fidora Solid Wood Queen Size Bed With Drawer Storage (Teak Finish)",
+      "shortName": "Fidora",
+      "summary": "A tailored headboard panel and rich teak stain bring refined craftsmanship to your master sleeping quarters. The structured headboard panel anchors bedroom pillows neatly while protecting the wall surface behind the bed. High-density sheesham wood readily readily readily boards furnish structural stability, level deck support, and durable perimeter framing. Enclosing seasonal linens within the frame keeps master bedroom surfaces neat, tidy, and restful to the eye. Fidora introduces disciplined storage utility and teak character to elevate your bedroom with graceful aesthetic balance.",
+      "opener": "A tailored headboard panel and rich teak stain bring refined craftsmanship to your master sleeping quarters",
+      "closer": "Fidora introduces disciplined storage utility and teak character to elevate your bedroom with graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> MATERIAL_DETAIL -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.840Z"
+    },
+    {
+      "id": "ul-fnnsbd18et37889",
+      "name": "Saar Solid Wood Queen Size Bed Without Storage (Espresso Finish)",
+      "shortName": "Saar",
+      "summary": "Warm timber tones and a minimalist queen size frame create an airy atmosphere for restful evening relaxation in suites. Generous under-bed clearance allows natural air circulation while preserving open floor reliably space around the perimeter. Assembled with teak wood, the structure preserves securely enduring squareness, unyielding joint strength, and finish stability. The streamlined platform design maintains open visual horizons, making the master bedroom feel spacious and serene. With clean geometric contours and espresso surfaces, Saar enhances your quarters with inviting domestic warmth.",
+      "opener": "Warm timber tones and a minimalist queen size frame create an airy atmosphere for restful evening relaxation in suites",
+      "closer": "With clean geometric contours and espresso surfaces, Saar enhances your quarters with inviting domestic warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.842Z"
+    },
+    {
+      "id": "ul-fnbdst12kd36664",
+      "name": "Hanoi Solid Wood King Size Upholstered Bed With Hydraulic Storage (Danish Walnut Finish)",
+      "shortName": "Hanoi",
+      "summary": "An impressive queen size profile in an authentic danish walnut stain establishes disciplined comfort throughout the suite. The expansive mattress deck accommodates plush bedding and standard mattresses for unhindered nightly comfort. neatly Primary mango wood framing delivers robust securely chassis balance and precise platform squaring throughout routines. Having an organized sleeping quarters promotes unhurried morning routines and tranquil bedtime relaxation. Hanoi offers dependable domestic utility through authentic mango wood joinery and warm living comfort.",
+      "opener": "An impressive queen size profile in an authentic danish walnut stain establishes disciplined comfort throughout the suite",
+      "closer": "Hanoi offers dependable domestic utility through authentic mango wood joinery and warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.844Z"
+    },
+    {
+      "id": "ul-fnbdst33bk36383",
+      "name": "Stanhope Engineered Wood King Size Bed With Hydraulic Storage (Baltic Blue Colour)",
+      "shortName": "Stanhope",
+      "summary": "Streamlined platform edges and a smooth baltic blue finish define this functional queen size bed built for modern living. The slim platform perimeter prevents accidental shin bumps while preserving wide walking paths around the bed. Built carefully with authentic particle board, the outer frame and headboard structure maintain dependable load-bearing strength. The elegant headboard backdrop creates a cohesive, harmonious accent that elevates master suite decor. Showcasing an authentic baltic blue exterior, Stanhope provides lasting contemporary elegance for master bedrooms.",
+      "opener": "Streamlined platform edges and a smooth baltic blue finish define this functional queen size bed built for modern living",
+      "closer": "Showcasing an authentic baltic blue exterior, Stanhope provides lasting contemporary elegance for master bedrooms.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.847Z"
+    },
+    {
+      "id": "ul-fnstbd12ak16539",
+      "name": "Toledo Solid Wood King Size Bed With Hydraulic Storage (Amber Walnut Finish)",
+      "shortName": "Toledo",
+      "summary": "A classic paneled headboard in a warm amber walnut hue lends architectural depth and timeless warmth to the room. A tall vertical headboard creates a supportive backdrop for sitting up in bed during morning coffee or reading. Solid mango wood panels ensure readily lasting cabinet durability, reliable corner joints, and custom character. Preserving floor clearance around readily bedside furniture fosters an securely orderly, serene bedroom atmosphere in the home. Toledo brings together solid mango wood construction and a amber walnut stain to create graceful aesthetic balance.",
+      "opener": "A classic paneled headboard in a warm amber walnut hue lends architectural depth and timeless warmth to the room",
+      "closer": "Toledo brings together solid mango wood construction and a amber walnut stain to create graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.849Z"
+    },
+    {
+      "id": "ul-fnbdst33dk36638",
+      "name": "Milan Engineered Wood King Size Bed With Hydraulic Storage (Deep Crimson Velvet Colour)",
+      "shortName": "Milan",
+      "summary": "Concealed hydraulic storage and a sophisticated brown exterior offer ample capacity for bedroom linens. Divided under-bed storage bays allow systematic categorization of seasonal blankets, clothing bins, and domestic textiles. daily Engineered high density block board construction provides durable reliably perimeter strength, level mattress placement, and stable base support. Concealed under-bed storage preserves an orderly bedroom layout, allowing you to relax peacefully each evening. Clean lines and brown surface tones ensure Milan delivers enduring contemporary elegance to your home.",
+      "opener": "Concealed hydraulic storage and a sophisticated brown exterior offer ample capacity for bedroom linens",
+      "closer": "Clean lines and brown surface tones ensure Milan delivers enduring contemporary elegance to your home.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.851Z"
+    },
+    {
+      "id": "ul-fnbdns12ck36385",
+      "name": "Takai Solid Wood King Size Bed Without Storage (Red Cedar Finish)",
+      "shortName": "Takai",
+      "summary": "A sturdy rectangular silhouette and rich red cedar stain give this queen size bed enduring appeal across bedroom decors. The balanced deck proportions fit comfortably into standard master bedrooms without crowding adjacent nightstands. Crafted with mango wood, the frame maintains rock-solid securely corner joinery, level platform support, and lasting durability. The timeless timber profile adds natural warmth and grounding stability to your master bedroom retreat. Takai fits naturally into master suites, combining mango wood framing with solid foundation strength.",
+      "opener": "A sturdy rectangular silhouette and rich red cedar stain give this queen size bed enduring appeal across bedroom decors",
+      "closer": "Takai fits naturally into master suites, combining mango wood framing with solid foundation strength.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.854Z"
+    },
+    {
+      "id": "ul-fnbdst11ak16423",
+      "name": "Cambry King Size Box Storage Bed With Headboard Storage In American Walnut",
+      "shortName": "Cambry",
+      "summary": "Understated modern styling and an authentic american walnut lustre make this queen size bed a versatile foundation for suites. The minimalist frame perimeter keeps the bedroom floor plan feeling light, uncluttered, and easy to navigate. The tough sheesham wood chassis delivers steady platform stability and durable joint reliably alignment across living. Maintaining open floor paths around the bed ensures effortless navigation throughout daily family routines. With its understated american walnut silhouette, Cambry establishes an atmosphere of modern refinement.",
+      "opener": "Understated modern styling and an authentic american walnut lustre make this queen size bed a versatile foundation for suites",
+      "closer": "With its understated american walnut silhouette, Cambry establishes an atmosphere of modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.857Z"
+    },
+    {
+      "id": "ul-fnbdst33cw35587",
+      "name": "Amy Engineered Wood King Size Bed With Box Storage (Classic Walnut Finish, Brown Colour)",
+      "shortName": "Amy",
+      "summary": "Rich wood securely graining and a smooth classic walnut finish give this expansive queen size platform bed an artisanal aesthetic. A wide mattress platform provides stable resting proportions, allowing restful, undisturbed sleep throughout the readily night. Unyielding particle board framing provides partitioned support across the entire bed, preventing wobble or platform shift. The disciplined platform structure keeps the sleeping zone feeling tranquil, balanced, and inviting. Amy enriches master bedroom arrangements through natural particle board texture and balanced room order.",
+      "opener": "Rich wood securely graining and a smooth classic walnut finish give this expansive queen size platform bed an artisanal aesthetic",
+      "closer": "Amy enriches master bedroom arrangements through natural particle board texture and balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.860Z"
+    },
+    {
+      "id": "ul-fnbdst43wa35176",
+      "name": "Aruba Engineered Wood King Size Bed With Hydraulic Storage (Classic Walnut Finish)",
+      "shortName": "Aruba",
+      "summary": "A balanced architectural silhouette in a classic walnut tone provides steady support and visual balance to suites. The sturdy base framing holds the mattress securely in position, preventing shifting during daily bedding changes. Built from solid particle board, the frame framework preserves steady structural assistance and flat deck alignment. Enclosing spare bedding within the chassis supports an uncluttered, refreshing master bedroom ambiance. Tailored for everyday family routines, Aruba unites a classic walnut finish with contemporary elegance.",
+      "opener": "A balanced architectural silhouette in a classic walnut tone provides steady support and visual balance to suites",
+      "closer": "Tailored for everyday family routines, Aruba unites a classic walnut finish with contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.863Z"
+    },
+    {
+      "id": "ul-fnbdst11tk16474",
+      "name": "Fidora Solid Wood King Size Bed With Box Storage (Teak Finish)",
+      "shortName": "Fidora",
+      "summary": "Space-saving non-storage and a handsome teak finish combine practical utility with elegant bedroom styling. The internal storage compartment provides vast space for extra duvets, guest linens, and storage boxes. High-density sheesham wood construction forms carefully the exterior rails and base securely legs, ensuring steady chassis balance. The balanced frame proportions create a harmonious centerpiece that enhances overall master suite relaxation. Fidora provides steadfast household service, combining sheesham wood panels with understated sophistication.",
+      "opener": "Space-saving non-storage and a handsome teak finish combine practical utility with elegant bedroom styling",
+      "closer": "Fidora provides steadfast household service, combining sheesham wood panels with understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.865Z"
+    },
+    {
+      "id": "ul-fnstbd33kg16517",
+      "name": "Rio Engineered Wood King Size Bed With Hydraulic Storage (Granite Weave Colour)",
+      "shortName": "Rio",
+      "summary": "A refined headboard silhouette and authentic grey finish create an inviting, restful focal anchor. The gently angled headboard offers ergonomic support for late-night reading and relaxed weekend mornings in bed. Constructed from particle board, the unit delivers consistent coating texture, robust framing, and neatly reliable structure. Preserving open walkway space around the platform allows versatile furniture styling in the master bedroom. An authentic grey finish allows Rio to complement existing bedroom furniture with modern refinement.",
+      "opener": "A refined headboard silhouette and authentic grey finish create an inviting, restful focal anchor",
+      "closer": "An authentic grey finish allows Rio to complement existing bedroom furniture with modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.869Z"
+    },
+    {
+      "id": "ul-fnbdst43lw31003",
+      "name": "Tyra Engineered Wood King Size Bed With Box Storage (Classic Walnut Finish)",
+      "shortName": "Tyra",
+      "summary": "Clean perimeter contours and a rich classic walnut finish lend modern elegance to this spacious queen size sleeping platform. The streamlined base profile maintains wide perimeter pathways between the bed, wardrobe, and bedroom entrance. Solid plpb components deliver consistent architectural integrity, joint stability, and tough load resistance. A clean architectural aesthetic promotes a restful, peaceful ambiance for sound and restorative sleep. Tyra completes the master suite layout through sturdy plpb framing and contemporary elegance.",
+      "opener": "Clean perimeter contours and a rich classic walnut finish lend modern elegance to this spacious queen size sleeping platform",
+      "closer": "Tyra completes the master suite layout through sturdy plpb framing and contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.872Z"
+    },
+    {
+      "id": "ul-fnbdns15dw11037",
+      "name": "Barnley Single Over Queen Storage Bunk Bed In Dark Walnut",
+      "shortName": "Barnley",
+      "summary": "A timeless timber design in an authentic dark walnut stain anchors your bedroom quarters with natural warmth. A solid slatted deck distributes mattress weight uniformly, promoting consistent surface comfort across the bed. Primary rubber wood framing ensures solid securely daily readily corner joinery, level platform positions, carefully and balance across routines. Concealing household textiles within the bed keeps master bedroom surfaces clean, orderly, and serene. Structured proportions and a dark walnut exterior make Barnley a trusted addition for modern refinement.",
+      "opener": "A timeless timber design in an authentic dark walnut stain anchors your bedroom quarters with natural warmth",
+      "closer": "Structured proportions and a dark walnut exterior make Barnley a trusted addition for modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.876Z"
+    },
+    {
+      "id": "ul-fvnsbd33cw50886",
+      "name": "Single Engineered Wood Single  Size Upholstered Bed Without Storage (Columbian Walnut Finish)",
+      "shortName": "Single",
+      "summary": "Structured platform framing and a smooth columbian walnut exterior bring to this queen size bed a disciplined, contemporary presence. The structured platform chassis supports standard mattress sizes while preserving a clean, modern aesthetic. Crafted with particle board, the framework provides unwavering integrity carefully and uniform surface alignment across use. The anchored headboard silhouette creates an inviting, comforting focal point for evening relaxation. Single enriches modern bedroom quarters with solid particle board support and graceful aesthetic balance.",
+      "opener": "Structured platform framing and a smooth columbian walnut exterior bring to this queen size bed a disciplined, contemporary presence",
+      "closer": "Single enriches modern bedroom quarters with solid particle board support and graceful aesthetic balance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.880Z"
+    },
+    {
+      "id": "ul-fvbdst33br72232",
+      "name": "Takeo Engineered Wood Single  Size Bed With Box Storage (Walnut Finish)",
+      "shortName": "Takeo",
+      "summary": "Integrated under-bed non-storage and a warm walnut stain provide generous capacity while preserving aesthetics. Spacious under-bed storage bays keep bedroom textiles protected from dust while keeping floor areas completely clear. Durable particle board construction reliably ensures lasting frame rigidity, dependable mattress support, and finish character. Maintaining an organized sleeping environment supports a calm, restorative atmosphere for daily living. With genuine particle board materials and a walnut tone, Takeo fosters lasting welcoming warmth.",
+      "opener": "Integrated under-bed non-storage and a warm walnut stain provide generous capacity while preserving aesthetics",
+      "closer": "With genuine particle board materials and a walnut tone, Takeo fosters lasting welcoming warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.884Z"
+    },
+    {
+      "id": "ul-fnbdns43dw35090",
+      "name": "Zoey Engineered Wood Single Size Bed Without Storage (Dark Wenge Finish)",
+      "shortName": "Zoey",
+      "summary": "An elegant low-profile chassis in a rich dark wenge finish securely brings contemporary poise to your master suite. The low-profile frame height makes getting into and out of bed effortless while maintaining a modern silhouette. Engineered with solid particle board, the chassis upholds rock-solid joint rigidity and flat platform alignment. The space-conscious platform chassis preserves valuable floor area for smooth room movement and calm living. Zoey provides practical domestic utility while maintaining an inviting sense of understated sophistication.",
+      "opener": "An elegant low-profile chassis in a rich dark wenge finish securely brings contemporary poise to your master suite",
+      "closer": "Zoey provides practical domestic utility while maintaining an inviting sense of understated sophistication.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.888Z"
+    },
+    {
+      "id": "ul-fnstbd33qm16518",
+      "name": "Rio Engineered Wood Queen Size Bed With Hydraulic Storage (Moss Green Colour)",
+      "shortName": "Rio",
+      "summary": "A grand queen size silhouette paired with an authentic green finish establishes a serene, grounding presence. An expansive queen size deck provides generous personal sleeping space for couples, ensuring peaceful and restful nights. Solid particle board construction delivers steady structural support and durable base stability throughout routines. Enclosing extra quilts and pillows within the frame maintains a disciplined, tranquil master bedroom quarters. The refined green surfaces of Rio bring natural warmth and restful sleep comfort to your living space.",
+      "opener": "A grand queen size silhouette paired with an authentic green finish establishes a serene, grounding presence",
+      "closer": "The refined green surfaces of Rio bring natural warmth and restful sleep comfort to your living space.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.892Z"
+    },
+    {
+      "id": "ul-fnbdst33dq36381",
+      "name": "Holmebrook Engineered Wood Queen Size Bed With Drawer Storage (Desert Rose Finish)",
+      "shortName": "Holmebrook",
+      "summary": "Crisp geometric angles and a warm desert rose stain define this space-conscious queen size platform bed for the home. The compact outer footprint fits neatly into master bedrooms, leaving plenty of room for bedside tables and lamps. High-quality mdf panels ensure readily lasting joint stability, durable side rails, and level deck placement. The low-profile aesthetic fosters an open, serene atmosphere that enhances master bedroom comfort. Holmebrook unifies master bedroom aesthetics through solid mdf craft and welcoming warmth.",
+      "opener": "Crisp geometric angles and a warm desert rose stain define this space-conscious queen size platform bed for the home",
+      "closer": "Holmebrook unifies master bedroom aesthetics through solid mdf craft and welcoming warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "SPATIAL_OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.896Z"
+    },
+    {
+      "id": "ul-fnstbd33be36636",
+      "name": "Valeria Engineered Wood Queen Size Bed With Hydraulic Storage (Beige Colour)",
+      "shortName": "Valeria",
+      "summary": "A sophisticated beige facade and structured sleeping platform deliver dependable utility for daily rest. The solid deck support maintains flat mattress alignment, ensuring reliable sleeping comfort across daily routines. Crafted from mdf, the structure delivers securely steady chassis alignment, authentic finish texture, and support. Keeping the bedside area clear of clutter promotes an unhurried, peaceful evening routine before sleep. Everyday convenience and beige styling define the lasting appeal of Valeria for soothing bedroom calm.",
+      "opener": "A sophisticated beige facade and structured sleeping platform deliver dependable utility for daily rest",
+      "closer": "Everyday convenience and beige styling define the lasting appeal of Valeria for soothing bedroom calm.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> PRACTICAL_USE -> PRACTICAL_USE -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.901Z"
+    },
+    {
+      "id": "ul-fnstbd33qb16487",
+      "name": "Bornholm Engineered Wood Queen Size Bed With Hydraulic Storage (Shitake Beige Colour)",
+      "shortName": "Bornholm",
+      "summary": "Generous queen size dimensions and an authentic beige finish make this bed an impressive centerpiece for quarters. The generous platform area accommodates standard mattress heights while anchoring the bedroom layout with poise. The resilient particle board frame supports heavy mattress layers and sleeper weight with dependable ease. The handsome timber facade creates a welcoming focal point that anchors master bedroom decor with warmth. Bornholm elevates master bedroom storage through authentic particle board components and honest material character.",
+      "opener": "Generous queen size dimensions and an authentic beige finish make this bed an impressive centerpiece for quarters",
+      "closer": "Bornholm elevates master bedroom storage through authentic particle board components and honest material character.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.905Z"
+    },
+    {
+      "id": "ul-fnbdst12mq16476",
+      "name": "Ritz Solid Wood Queen Size Upholstered Bed With Hydraulic Storage (Mahagony Finish)",
+      "shortName": "Ritz",
+      "summary": "Modern minimalist framing paired with a rich mahagony stain creates a tranquil, sophisticated focal point. A floating platform aesthetic preserves floor visibility, enhancing the overall sense of spaciousness in the suite. Built with solid sheesham wood, the structure delivers daily dependable carefully load reinforcement and stable joinery across regular use. Preserving open walkway clearance between the bed and wardrobe makes the room feel airy and easy to navigate. Warm mahagony hues allow Ritz to blend seamlessly into your home with unhurried morning rest.",
+      "opener": "Modern minimalist framing paired with a rich mahagony stain creates a tranquil, sophisticated focal point",
+      "closer": "Warm mahagony hues allow Ritz to blend seamlessly into your home with unhurried morning rest.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.910Z"
+    },
+    {
+      "id": "ul-fnbdst33dk36381",
+      "name": "Holmebrook Engineered Wood King Size Bed With Drawer Storage (Desert Rose Colour)",
+      "shortName": "Holmebrook",
+      "summary": "Functional non-storage and a smooth desert rose exterior provide disciplined storage for seasonal textiles. Concealed under-bed bays provide ample room for seasonal clothing bags, spare duvets, and domestic linen sets. Primary mdf construction reliably securely ensures reliable framing, authentic neatly surface texture, and domestic stability. Concealing seasonal bedding inside the unit keeps master bedroom surfaces neat and tranquil throughout the day. Holmebrook supports comfortable domestic living with genuine mdf framing and balanced room order.",
+      "opener": "Functional non-storage and a smooth desert rose exterior provide disciplined storage for seasonal textiles",
+      "closer": "Holmebrook supports comfortable domestic living with genuine mdf framing and balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.914Z"
+    },
+    {
+      "id": "ul-fvbdbb33wh69192",
+      "name": "Sleep N Slide Bunk Bed with Slide and Storage in White Colour",
+      "shortName": "Sleep",
+      "summary": "A handsome wood stain in an authentic white tone brings natural warmth and visual depth to master suites. The tall timber headboard adds vertical interest to master bedrooms while providing a solid resting backrest. Solid engineered wood framing supports the sleeping platform carefully without sagging neatly or frame flex under domestic use. The clean-lined platform base establishes a balanced, harmonious atmosphere for restful nighttime slumber. A streamlined white facade ensures Sleep brings understated inviting domestic comfort to your quarters.",
+      "opener": "A handsome wood stain in an authentic white tone brings natural warmth and visual depth to master suites",
+      "closer": "A streamlined white facade ensures Sleep brings understated inviting domestic comfort to your quarters.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.919Z"
+    },
+    {
+      "id": "ul-fvbdst33pr20727",
+      "name": "Siona Engineered Wood Box Drawer Storage Bunk Bed Lavender Purple",
+      "shortName": "Siona",
+      "summary": "Refined styling and a deep matte laminate finish give this spacious queen size bed an enduring place in your bedroom. A well-proportioned sleeping platform supports standard mattresses without encroaching on bedroom walkways. Constructed daily with authentic mdf, daily the outer chassis and internal slats deliver steady balance. An uncluttered master bedroom layout promotes relaxation, helping you unwind comfortably at the end of each day. Siona enriches the sleeping environment through authentic mdf structure and modern refinement.",
+      "opener": "Refined styling and a deep matte laminate finish give this spacious queen size bed an enduring place in your bedroom",
+      "closer": "Siona enriches the sleeping environment through authentic mdf structure and modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.924Z"
+    },
+    {
+      "id": "ul-fvbdbb33br69187",
+      "name": "Sleep N Slide Bunk Bed with Slide and Storage in Oak Colour",
+      "shortName": "Sleep",
+      "summary": "A balanced platform foundation and warm oak finish establish an uncluttered appeal in the master room. The elevated platform foundation allows easy vacuuming beneath the frame to maintain a pristine sleeping environment. Solid engineered wood posts ensure dependable corner rigidity, firm deck support, and lasting performance. The grounded platform silhouette enhances room harmony while supporting deep, undisturbed nightly rest. Functional design and a oak stain make Sleep a dependable companion for warm living comfort.",
+      "opener": "A balanced platform foundation and warm oak finish establish an uncluttered appeal in the master room",
+      "closer": "Functional design and a oak stain make Sleep a dependable companion for warm living comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.929Z"
+    },
+    {
+      "id": "ul-fvbdbb33br69180",
+      "name": "Pattern Dreams Bunk Bed with Storage in White Colour",
+      "shortName": "Pattern",
+      "summary": "Artisanal timber detailing and a rich oak stain distinguish this queen size bed in contemporary quarters. A recessed base design prevents toe stubs while keeping the bed solidly grounded against the master bedroom floor. High-density engineered wood framing maintains steady bed alignment, durable side rails, and reliable support. Preserving floor visibility beneath the frame creates a light, expansive feel throughout the master suite. Pattern establishes structured bedroom utility through solid engineered wood elements and modern refinement.",
+      "opener": "Artisanal timber detailing and a rich oak stain distinguish this queen size bed in contemporary quarters",
+      "closer": "Pattern establishes structured bedroom utility through solid engineered wood elements and modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.934Z"
+    },
+    {
+      "id": "ul-fvstbd33ob51122",
+      "name": "Pine Tree Single Size Bunk Bed In Oak and Blue Colour",
+      "shortName": "Pine",
+      "summary": "Concealed under-bed compartments and an authentic multicolor exterior provide practical storage for bedrooms. Internal storage sections maximize domestic utility, keeping extra pillows and winter blankets neatly out of view. The durable engineered wood chassis supports full mattress weight and bedding sets with steadfast reliability. Enclosing domestic linens within the base maintains an orderly, relaxing ambiance across the bedroom. With its clean multicolor profile, Pine introduces a tranquil sense of dependable structural integrity.",
+      "opener": "Concealed under-bed compartments and an authentic multicolor exterior provide practical storage for bedrooms",
+      "closer": "With its clean multicolor profile, Pine introduces a tranquil sense of dependable structural integrity.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.939Z"
+    },
+    {
+      "id": "ul-fvbdst33or20699",
+      "name": "Evita Engineered Wood Box Storage Bunk Bed - Light Orange",
+      "shortName": "Evita",
+      "summary": "A sleek profile with warm matte laminate undertones brings modern refinement to your primary sleeping arrangement. The streamlined perimeter frame preserves valuable master bedroom floor space for dressing and relaxation. Built with mdf, the bed delivers unwavering housing cohesion and uniform daily surface alignment across use. The structured headboard styling adds refined architectural presence to your primary sleeping sanctuary. Evita coordinates effortlessly with master bedroom furnishings through mdf panels and contemporary elegance.",
+      "opener": "A sleek profile with warm matte laminate undertones brings modern refinement to your primary sleeping arrangement",
+      "closer": "Evita coordinates effortlessly with master bedroom furnishings through mdf panels and contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.944Z"
+    },
+    {
+      "id": "ul-fvbdst33ob20714",
+      "name": "Luxuria Engineered Wood Box & Drawer Storage Bunk Bed - Light Orange - Azure Blue",
+      "shortName": "Luxuria",
+      "summary": "Distinctive headboard architecture and a smooth matte laminate finish create an inviting, stylish bedroom anchor. The paneled headboard structure keeps pillows securely in place while adding architectural warmth to the room. Primary mdf framing ensures solid carefully corner carefully joinery, level reliably platform positions, and balance throughout living. Maintaining clear floor pathways around the bed ensures comfortable domestic flow and everyday ease. Dependable construction and a matte laminate finish ensure Luxuria provides daily welcoming home presence.",
+      "opener": "Distinctive headboard architecture and a smooth matte laminate finish create an inviting, stylish bedroom anchor",
+      "closer": "Dependable construction and a matte laminate finish ensure Luxuria provides daily welcoming home presence.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.949Z"
+    },
+    {
+      "id": "ul-fvbdbb33wh70281",
+      "name": "Pine Tree Bunk Bed with Drawer Storage",
+      "shortName": "Pine",
+      "summary": "Spacious queen size sleeping proportions and a classic white finish offer generous comfort for master suites. An expansive sleeping plane provides couples with undisturbed resting comfort throughout the night. Durable engineered wood construction ensures lasting skeleton rigidity, dependable deck support, and timber character. The balanced sleeping platform creates a serene, inviting retreat tailored for restful family living. Pine anchors the sleeping space with genuine engineered wood components and inviting domestic warmth.",
+      "opener": "Spacious queen size sleeping proportions and a classic white finish offer generous comfort for master suites",
+      "closer": "Pine anchors the sleeping space with genuine engineered wood components and inviting domestic warmth.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.955Z"
+    },
+    {
+      "id": "ul-fvbdst33tq20673",
+      "name": "Astra Engineered Wood Box & Drawer Storage Bunk Bed - English Pink - Misty Turquoise",
+      "shortName": "Astra",
+      "summary": "A functional multi-compartment base and rich matte laminate stain keep master bedroom bedding organized and accessible. Divided under-bed cavities allow systematic organization of spare linens, seasonal apparel, and accessories. Solid mdf assemblies deliver reliable structural integrity, joint stability, and load resistance. Concealing bulky blankets inside neatly the frame keeps master chamber surfaces pristine and free of visual clutter. A classic matte laminate appearance gives Astra a timeless presence marked by balanced room order.",
+      "opener": "A functional multi-compartment base and rich matte laminate stain keep master bedroom bedding organized and accessible",
+      "closer": "A classic matte laminate appearance gives Astra a timeless presence marked by balanced room order.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.960Z"
+    },
+    {
+      "id": "ul-fvbdst33yl20665",
+      "name": "Adonica Engineered Wood Drawer Storage Bunk Bed - Mango Yellow",
+      "shortName": "Adonica",
+      "summary": "Understated platform lines and an distinctive matte laminate finish lend contemporary grace to master bedroom decors. The low platform chassis creates a grounded, relaxing atmosphere that promotes peaceful evening unwinding. Constructed from mdf, the bed framework securely daily preserves enduring reliably squareness and stable perimeter bracing. The minimalist frame design supports an uncluttered, peaceful bedroom aesthetic for nightly rejuvenation. Adonica enhances everyday bedroom organization with solid mdf integrity and contemporary elegance.",
+      "opener": "Understated platform lines and an distinctive matte laminate finish lend contemporary grace to master bedroom decors",
+      "closer": "Adonica enhances everyday bedroom organization with solid mdf integrity and contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> SPATIAL_FUNCTION -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.966Z"
+    },
+    {
+      "id": "ul-fvbdbb33br69194",
+      "name": "Pinwheels Bunk Bed with Storage in Oak Colour",
+      "shortName": "Pinwheels",
+      "summary": "A timeless silhouette in a warm oak finish brings dependable comfort and charm to nightly routines. A solid mattress platform ensures even weight distribution across the entire frame for restful nightly sleep. Engineered engineered wood neatly daily panels provide durable perimeter strength, reliably level mattress placement, and stability. carefully Preserving open floor space neatly around the bed promotes natural ventilation and a tranquil room atmosphere. With warm oak tones, Pinwheels brings an understated balance of utility and contemporary elegance.",
+      "opener": "A timeless silhouette in a warm oak finish brings dependable comfort and charm to nightly routines",
+      "closer": "With warm oak tones, Pinwheels brings an understated balance of utility and contemporary elegance.",
+      "angle": "STRUCTURE_A",
+      "structure": "USE_CASE -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.972Z"
+    },
+    {
+      "id": "ul-fnbdst33rb36141",
+      "name": "Rodrigues Engineered Wood King Size Bed With Box Storage (Rolex Brown Finish)",
+      "shortName": "Rodrigues",
+      "summary": "Structured timber framing and a rich rolex brown exterior establish disciplined elegance throughout master quarters. The structured headboard design creates a refined focal backdrop for coordinating bedside lighting and wall art. Built with solid particle board, the bed structure delivers dependable load foundation and stable joinery across use. The elegant timber silhouette provides a warm, comforting anchor for master bedroom relaxation. Rodrigues fulfills household storage needs through authentic particle board joinery and refined contemporary distinction.",
+      "opener": "Structured timber framing and a rich rolex brown exterior establish disciplined elegance throughout master quarters",
+      "closer": "Rodrigues fulfills household storage needs through authentic particle board joinery and refined contemporary distinction.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.978Z"
+    },
+    {
+      "id": "ul-fnbdst43dw35094",
+      "name": "Wren Engineered Wood Single Size Box Storage Bed In Dark Wenge Finish",
+      "shortName": "Wren",
+      "summary": "Integrated non-storage and an authentic dark wenge finish offer ample linen storage without compromising aesthetics. Integrated under-bed storage provides accessible, out-of-sight space for bulky quilts and extra bedding sets. High-density particle board framing supports heavy mattresses and bedding without sagging or panel flex over time. Enclosing extra bedding within the chassis helps maintain a calm, refreshing master suite environment. Refined dark wenge detailing ensures Wren introduces lasting authentic quality into master suites.",
+      "opener": "Integrated non-storage and an authentic dark wenge finish offer ample linen storage without compromising aesthetics",
+      "closer": "Refined dark wenge detailing ensures Wren introduces lasting authentic quality into master suites.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.984Z"
+    },
+    {
+      "id": "ul-fnsfbd62bb36094",
+      "name": "Kowloon Sectional Pull Out Sofa Cum Bed with Storage in Baltic Blue Colour",
+      "shortName": "Kowloon",
+      "summary": "A commanding queen size profile in a smooth blue finish creates a calm, restful retreat in the suite. The generous platform dimensions offer ample room for stretching out, unwinding, and enjoying deep nighttime rest. Solid fabric panels deliver lasting framework durability, reliable joint backing, and authentic texture. The spacious sleeping plane and balanced frame establish a disciplined, peaceful bedroom sanctuary. Kowloon pairs practical bedroom utility with authentic fabric texture to offer unhurried morning rest.",
+      "opener": "A commanding queen size profile in a smooth blue finish creates a calm, restful retreat in the suite",
+      "closer": "Kowloon pairs practical bedroom utility with authentic fabric texture to offer unhurried morning rest.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.990Z"
+    },
+    {
+      "id": "ul-fnsfsc26go35118",
+      "name": "Felicity 3 Seater Click Clack Sofa cum Bed In Olive Green Colour",
+      "shortName": "Felicity",
+      "summary": "Clean architectural neatly angles and an authentic green stain define this durable platform bed for modern homes. The minimalist base frame keeps the master bedroom layout feeling open, balanced, and easy to navigate. Crafted from polyester, the frame maintains rock-solid reliably corner joinery, level deck support, and character. Maintaining an open perimeter around the bed ensures effortless room navigation and peaceful living. An authentic green stain allows Felicity to enrich your quarters with modern refinement.",
+      "opener": "Clean architectural neatly angles and an authentic green stain define this durable platform bed for modern homes",
+      "closer": "An authentic green stain allows Felicity to enrich your quarters with modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:14.996Z"
+    },
+    {
+      "id": "ul-fnsfsc33st37812",
+      "name": "Kobi 2 Seater Fold Out Sofa Cum Bed in Speckled Teal Colour",
+      "shortName": "Kobi",
+      "summary": "A warm green facade and solid headboard panel give this queen size bed an inviting, grounding presence. A solid timber headboard provides reliable back support for nighttime reading and relaxed morning routines. Primary ply wood readily reliably construction ensures readily reliable framing, authentic surface daily texture, and bedroom stability. The grounded platform design creates a serene, harmonious sleeping environment for restorative rest. Kobi supports relaxing evening routines through solid ply wood framing and inviting domestic comfort.",
+      "opener": "A warm green facade and solid headboard panel give this queen size bed an inviting, grounding presence",
+      "closer": "Kobi supports relaxing evening routines through solid ply wood framing and inviting domestic comfort.",
+      "angle": "STRUCTURE_A",
+      "structure": "MATERIAL_SENSORY -> PRACTICAL_USE -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:15.003Z"
+    },
+    {
+      "id": "ul-fnsfsc62mn10001",
+      "name": "Palermo 3 Seater Click Clack Sofa cum Bed In Midnight Indigo Blue Colour",
+      "shortName": "Palermo",
+      "summary": "Refined proportions and a readily rich blue stain establish an uncluttered sleeping zone in the master bedroom. The balanced platform proportions fit harmoniously into master suites, leaving ample room for bedroom furniture. Built with authentic polyester, readily the outer frame and slatted base deliver steady load-bearing reliability. An uncluttered, beautifully anchored bed frame promotes lasting tranquility and restful sleep every night. Understated blue geometry ensures Palermo provides master bedrooms with modern refinement.",
+      "opener": "Refined proportions and a readily rich blue stain establish an uncluttered sleeping zone in the master bedroom",
+      "closer": "Understated blue geometry ensures Palermo provides master bedrooms with modern refinement.",
+      "angle": "STRUCTURE_A",
+      "structure": "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION",
+      "facts": [
+        "primaryMaterial",
+        "finish",
+        "size",
+        "storage"
+      ],
+      "timestamp": "2026-09-15T11:37:15.010Z"
+    }
+  ],
+  "angleCounts": {
+    "STRUCTURE_A": 50
+  },
+  "structureCounts": {
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 3,
+    "OBSERVATION -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 3,
+    "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 3,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION": 2,
+    "SPATIAL_OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 6,
+    "OBSERVATION -> FUNCTION -> FUNCTION -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 3,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> MATERIAL_DETAIL -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "USE_CASE -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 3,
+    "SPATIAL_OBSERVATION -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> SPATIAL_FUNCTION -> STORAGE_FUNCTION -> CONCLUSION": 1,
+    "SPATIAL_OBSERVATION -> FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> STORAGE_FUNCTION -> MATERIAL_DETAIL -> FUNCTION -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 2,
+    "SPATIAL_OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "USE_CASE -> PRACTICAL_USE -> PRACTICAL_USE -> PRACTICAL_USE -> CONCLUSION": 1,
+    "OBSERVATION -> STORAGE_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> SPATIAL_FUNCTION -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> FUNCTION -> CONCLUSION": 2,
+    "MATERIAL_SENSORY -> FUNCTION -> SPATIAL_FUNCTION -> FUNCTION -> CONCLUSION": 1,
+    "USE_CASE -> PRACTICAL_USE -> MATERIAL_DETAIL -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "OBSERVATION -> FUNCTION -> PRACTICAL_USE -> SPATIAL_FUNCTION -> CONCLUSION": 1,
+    "MATERIAL_SENSORY -> PRACTICAL_USE -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1,
+    "OBSERVATION -> SPATIAL_FUNCTION -> FUNCTION -> PRACTICAL_USE -> CONCLUSION": 1
+  },
+  "updated_at": "2026-09-15T11:37:15.010Z"
+}
